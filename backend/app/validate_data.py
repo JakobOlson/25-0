@@ -29,7 +29,7 @@ ROUND_SWING_CAP = 4.0
 ALLOWED_ROLES = {"awper", "igl", "rifler", "flex", "anchor", "entry"}
 errors = []
 
-def loadplayers():
+def load_pfile():
     if not DATA_FILE.exists():
         errors.append(f"Data file {DATA_FILE} does not exist.")
         raise FileNotFoundError(f"Data file {DATA_FILE} does not exist.")
@@ -51,7 +51,7 @@ def loadplayers():
 
 
 def validate_data():
-    players = loadplayers()
+    players = load_pfile()
     #main check for missing fields and invalid data types
     seen_ids = set()
     for index, player in enumerate(players):

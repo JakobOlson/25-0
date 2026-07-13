@@ -1,84 +1,148 @@
-from .data import *
-def display_players(players):
-    for number, player in enumerate(players, start=1):
-        print(
-            f"{number}. {player.get('name')} "
-            f"| {player.get('primary_role')} "
-            f"| Rating: {player.get('rating')}"
+from .data import (
+    get_players_for_team_year,
+    reroll_team,
+    reroll_year,
+    roll_team_year,
+)
+
+
+DRAFT_SIZE = 5
+
+
+def create_game_state():
+    """
+    Create and return a new game's starting state.
+    """
+
+    return {
+        "round_number": 1,
+        "reroll_available": True,
+        "current_team": None,
+        "current_year": None,
+        "available_players": [],
+        "selected_players": [],
+        "game_complete": False,
+    }
+
+
+def start_round(game_state, players, options):
+    """
+    Start a draft round by rolling a team and year.
+    """
+
+    if game_state["game_complete"]:
+        raise ValueError(
+            "The game is complete. Another round cannot begin."
         )
 
-def play_draft_round(players, options, reroll_available):
     current_team, current_year = roll_team_year(options)
-
-    print(f"You rolled {current_team.upper()}, {current_year}")
-
-    # Ask whether the user wants to keep, reroll team,
-    # or reroll year.
-
-    # If a reroll is used:
-    # update current_team/current_year
-    # set reroll_available to False
 
     available_players = get_players_for_team_year(
         players,
         current_team,
-        current_year
+        current_year,
     )
 
+    game_state["current_team"] = current_team
+    game_state["current_year"] = current_year
+    game_state["available_players"] = available_players
 
-    # Display players
-    # Ask the user to select one
-    # Return selected player and reroll_available
+    return game_state
 
-    if reroll_available:
-        use_reroll = input(f"Would you like to use your reroll yes or no? ")
-        if use_reroll == "yes":
-            reroll_available = False
-            team_or_year = str(input(f"would you like to reroll team or year? "))
-            if team_or_year == "team":
-                current_team, current_year = reroll_team(
-                    options,
-                    current_team,
-                    current_year
-                    )
-                print(f'New Team: {current_team} | Current Year: {current_year}')
-            elif team_or_year == "year":
-                current_team, current_year = reroll_year(
-                    options,
-                    current_team,
-                    current_year
-                )
-                print(f'Current Team: {current_team} | New Year: {current_year}')
-            else:
-                use_reroll = str(input(f"\n Would you like to use your reroll yes or no? "))
-        elif use_reroll == "no":
-            available_players = get_players_for_team_year(
-                    players,
-                    current_team,
-                    current_year
-                )
-            
-    if not reroll_available:
-        available_players = get_players_for_team_year(
+
+def reroll_current_team(game_state, players, options):
+    """
+    Reroll the current team while keeping the current year.
+    """
+
+    if not game_state["reroll_available"]:
+        raise ValueError("The reroll has already been used.")
+
+    new_team, same_year = reroll_team(
+        options,
+        game_state["current_team"],
+        game_state["current_year"],
+    )
+
+    game_state["current_team"] = new_team
+    game_state["current_year"] = same_year
+
+    game_state["available_players"] = (
+        get_players_for_team_year(
             players,
-            current_team,
-            current_year
+            new_team,
+            same_year,
+        )
+    )
+
+    game_state["reroll_available"] = False
+
+    return game_state
+
+
+def reroll_current_year(game_state, players, options):
+    """
+    Reroll the current year while keeping the current team.
+    """
+
+    if not game_state["reroll_available"]:
+        raise ValueError("The reroll has already been used.")
+
+    same_team, new_year = reroll_year(
+        options,
+        game_state["current_team"],
+        game_state["current_year"],
+    )
+
+    game_state["current_team"] = same_team
+    game_state["current_year"] = new_year
+
+    game_state["available_players"] = (
+        get_players_for_team_year(
+            players,
+            same_team,
+            new_year,
+        )
+    )
+
+    game_state["reroll_available"] = False
+
+    return game_state
+
+
+def select_player(game_state, player_id):
+    """
+    Add one available player to the drafted roster.
+    """
+
+    selected_player = None
+
+    for player in game_state["available_players"]:
+        if player.get("player_id") == player_id:
+            selected_player = player
+            break
+
+    if selected_player is None:
+        raise ValueError(
+            f"Player {player_id} is not available this round."
         )
 
-    display_players(available_players)
-    while (True):
-        try:
-            player_selected = int(input(f'\nWho would you like to pick? (1-{len(available_players)}): '))
-            if 1 <= player_selected <= len(available_players):
-                break
-            
-            print("That number is outside the available choices.")
+    game_state["selected_players"].append(
+        selected_player
+    )
 
-        except ValueError:
-            print("Please enter a number.")
-    
-    selected_player = available_players[player_selected - 1]
+    if (
+        len(game_state["selected_players"])
+        >= DRAFT_SIZE
+    ):
+        game_state["game_complete"] = True
 
+    else:
+        game_state["round_number"] += 1
 
+    # Clear the current roll now that the selection is complete.
+    game_state["current_team"] = None
+    game_state["current_year"] = None
+    game_state["available_players"] = []
 
-    return selected_player, reroll_available
+    return game_state, selected_player

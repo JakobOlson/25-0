@@ -1,0 +1,22 @@
+[
+  {
+    "title": "csgo",
+    "title_id": "1",
+    "tournament_count": 2299,
+    "major_candidate_count": 71,
+    "earliest_start_date": "2023-11-01",
+    "latest_start_date": "2023-11-01",
+    "all_tournaments_file": "C:\\Users\\csgow\\Documents\\my-websites\\25-0\\backend\\app\\integrations\\grid\\audit_results\\csgo_all_tournaments.json",
+    "major_candidates_file": "C:\\Users\\csgow\\Documents\\my-websites\\25-0\\backend\\app\\integrations\\grid\\audit_results\\csgo_major_candidates.json"
+  },
+  {
+    "title": "cs2",
+    "title_id": "28",
+    "tournament_count": 953,
+    "major_candidate_count": 42,
+    "earliest_start_date": "2023-11-03",
+    "latest_start_date": "2026-08-04",
+    "all_tournaments_file": "C:\\Users\\csgow\\Documents\\my-websites\\25-0\\backend\\app\\integrations\\grid\\audit_results\\cs2_all_tournaments.json",
+    "major_candidates_file": "C:\\Users\\csgow\\Documents\\my-websites\\25-0\\backend\\app\\integrations\\grid\\audit_results\\cs2_major_candidates.json"
+  }
+]

@@ -1,0 +1,6289 @@
+[
+  {
+    "id": "2812679",
+    "startTimeScheduled": "2025-06-03T15:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52042",
+          "name": "Complexity",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812680",
+    "startTimeScheduled": "2025-06-03T15:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53767",
+          "name": "Chinggis Warriors",
+          "nameShortened": "CW"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812681",
+    "startTimeScheduled": "2025-06-03T16:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49619",
+          "name": "Imperial",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812682",
+    "startTimeScheduled": "2025-06-03T16:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812683",
+    "startTimeScheduled": "2025-06-03T17:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51823",
+          "name": "NRG"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812684",
+    "startTimeScheduled": "2025-06-03T17:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812685",
+    "startTimeScheduled": "2025-06-03T18:55:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52230",
+          "name": "Wildcard",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51692",
+          "name": "Metizport",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812686",
+    "startTimeScheduled": "2025-06-03T18:55:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53909",
+          "name": "Flyquest",
+          "nameShortened": "Flyquest"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51311",
+          "name": "Fluxo"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812687",
+    "startTimeScheduled": "2025-06-03T20:35:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812688",
+    "startTimeScheduled": "2025-06-03T20:35:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51823",
+          "name": "NRG"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812689",
+    "startTimeScheduled": "2025-06-03T21:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53909",
+          "name": "Flyquest",
+          "nameShortened": "Flyquest"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812690",
+    "startTimeScheduled": "2025-06-03T21:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52230",
+          "name": "Wildcard",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812691",
+    "startTimeScheduled": "2025-06-03T23:40:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49619",
+          "name": "Imperial",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812692",
+    "startTimeScheduled": "2025-06-03T22:55:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53767",
+          "name": "Chinggis Warriors",
+          "nameShortened": "CW"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812693",
+    "startTimeScheduled": "2025-06-03T22:40:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52042",
+          "name": "Complexity",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51311",
+          "name": "Fluxo"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812694",
+    "startTimeScheduled": "2025-06-04T00:10:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51692",
+          "name": "Metizport",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812695",
+    "startTimeScheduled": "2025-06-04T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812696",
+    "startTimeScheduled": "2025-06-04T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51823",
+          "name": "NRG"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52042",
+          "name": "Complexity",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812697",
+    "startTimeScheduled": "2025-06-04T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812698",
+    "startTimeScheduled": "2025-06-04T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812699",
+    "startTimeScheduled": "2025-06-04T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53909",
+          "name": "Flyquest",
+          "nameShortened": "Flyquest"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812700",
+    "startTimeScheduled": "2025-06-04T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52198",
+          "name": "Wildcard Gaming",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812701",
+    "startTimeScheduled": "2025-06-04T20:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49619",
+          "name": "Imperial",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51692",
+          "name": "Metizport",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812702",
+    "startTimeScheduled": "2025-06-04T20:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53767",
+          "name": "Chinggis Warriors",
+          "nameShortened": "CW"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51311",
+          "name": "Fluxo"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812703",
+    "startTimeScheduled": "2025-06-05T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52042",
+          "name": "Complexity",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812704",
+    "startTimeScheduled": "2025-06-05T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49619",
+          "name": "Imperial",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812705",
+    "startTimeScheduled": "2025-06-05T17:15:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51823",
+          "name": "NRG"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812706",
+    "startTimeScheduled": "2025-06-05T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53767",
+          "name": "Chinggis Warriors",
+          "nameShortened": "CW"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812707",
+    "startTimeScheduled": "2025-06-05T18:55:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52198",
+          "name": "Wildcard Gaming",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812708",
+    "startTimeScheduled": "2025-06-05T21:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53909",
+          "name": "Flyquest",
+          "nameShortened": "Flyquest"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812709",
+    "startTimeScheduled": "2025-06-06T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51823",
+          "name": "NRG"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812710",
+    "startTimeScheduled": "2025-06-06T18:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52198",
+          "name": "Wildcard Gaming",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812711",
+    "startTimeScheduled": "2025-06-06T20:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "53909",
+          "name": "Flyquest",
+          "nameShortened": "Flyquest"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812712",
+    "startTimeScheduled": "2025-06-07T03:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51967",
+          "name": "Team Falcons",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812713",
+    "startTimeScheduled": "2025-06-07T04:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812714",
+    "startTimeScheduled": "2025-06-07T13:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812715",
+    "startTimeScheduled": "2025-06-07T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812716",
+    "startTimeScheduled": "2025-06-07T17:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52000",
+          "name": "Pain Gaming",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812717",
+    "startTimeScheduled": "2025-06-07T16:40:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812718",
+    "startTimeScheduled": "2025-06-07T17:35:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51813",
+          "name": "MIBR"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812719",
+    "startTimeScheduled": "2025-06-07T18:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52200",
+          "name": "M80",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812720",
+    "startTimeScheduled": "2025-06-07T19:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812721",
+    "startTimeScheduled": "2025-06-07T19:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812722",
+    "startTimeScheduled": "2025-06-07T20:25:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812723",
+    "startTimeScheduled": "2025-06-07T20:25:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812724",
+    "startTimeScheduled": "2025-06-07T21:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51967",
+          "name": "Team Falcons",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812725",
+    "startTimeScheduled": "2025-06-07T21:25:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812726",
+    "startTimeScheduled": "2025-06-07T22:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51813",
+          "name": "MIBR"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812727",
+    "startTimeScheduled": "2025-06-07T22:20:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52200",
+          "name": "M80",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812728",
+    "startTimeScheduled": "2025-06-08T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812729",
+    "startTimeScheduled": "2025-06-08T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812730",
+    "startTimeScheduled": "2025-06-08T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52200",
+          "name": "M80",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812731",
+    "startTimeScheduled": "2025-06-08T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812732",
+    "startTimeScheduled": "2025-06-08T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812733",
+    "startTimeScheduled": "2025-06-08T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52000",
+          "name": "Pain Gaming",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812734",
+    "startTimeScheduled": "2025-06-08T18:50:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51967",
+          "name": "Team Falcons",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812735",
+    "startTimeScheduled": "2025-06-08T20:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51813",
+          "name": "MIBR"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812736",
+    "startTimeScheduled": "2025-06-09T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49583",
+          "name": "TYLOO"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812737",
+    "startTimeScheduled": "2025-06-09T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52200",
+          "name": "M80",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812738",
+    "startTimeScheduled": "2025-06-09T18:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51967",
+          "name": "Team Falcons",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51813",
+          "name": "MIBR"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812739",
+    "startTimeScheduled": "2025-06-09T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52000",
+          "name": "Pain Gaming",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812742",
+    "startTimeScheduled": "2025-06-10T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812743",
+    "startTimeScheduled": "2025-06-10T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812744",
+    "startTimeScheduled": "2025-06-10T20:35:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51813",
+          "name": "MIBR"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812745",
+    "startTimeScheduled": "2025-06-12T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812746",
+    "startTimeScheduled": "2025-06-12T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812747",
+    "startTimeScheduled": "2025-06-12T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49586",
+          "name": "Team Spirit"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52000",
+          "name": "Pain Gaming",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812748",
+    "startTimeScheduled": "2025-06-12T16:15:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51822",
+          "name": "G2 Esports"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812749",
+    "startTimeScheduled": "2025-06-12T17:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812750",
+    "startTimeScheduled": "2025-06-12T17:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "50074",
+          "name": "AURORA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812751",
+    "startTimeScheduled": "2025-06-12T17:50:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51814",
+          "name": "Natus Vincere"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812752",
+    "startTimeScheduled": "2025-06-12T18:10:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51815",
+          "name": "Team Liquid",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812753",
+    "startTimeScheduled": "2025-06-12T19:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812754",
+    "startTimeScheduled": "2025-06-12T19:30:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "50074",
+          "name": "AURORA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812755",
+    "startTimeScheduled": "2025-06-12T20:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49586",
+          "name": "Team Spirit"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812756",
+    "startTimeScheduled": "2025-06-12T20:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51814",
+          "name": "Natus Vincere"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812757",
+    "startTimeScheduled": "2025-06-12T21:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812758",
+    "startTimeScheduled": "2025-06-12T22:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812759",
+    "startTimeScheduled": "2025-06-12T22:40:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51815",
+          "name": "Team Liquid",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812760",
+    "startTimeScheduled": "2025-06-12T22:55:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51822",
+          "name": "G2 Esports"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812761",
+    "startTimeScheduled": "2025-06-13T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812762",
+    "startTimeScheduled": "2025-06-13T15:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812763",
+    "startTimeScheduled": "2025-06-13T15:45:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "50074",
+          "name": "AURORA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51822",
+          "name": "G2 Esports"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812764",
+    "startTimeScheduled": "2025-06-13T16:05:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812765",
+    "startTimeScheduled": "2025-06-13T16:35:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49586",
+          "name": "Team Spirit"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51814",
+          "name": "Natus Vincere"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812766",
+    "startTimeScheduled": "2025-06-13T16:55:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812767",
+    "startTimeScheduled": "2025-06-13T18:40:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51815",
+          "name": "Team Liquid",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812768",
+    "startTimeScheduled": "2025-06-13T18:40:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49589",
+          "name": "Nemiga"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812769",
+    "startTimeScheduled": "2025-06-14T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49575",
+          "name": "Lynn Vision",
+          "nameShortened": "Lynn Vision Gaming"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812770",
+    "startTimeScheduled": "2025-06-14T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812771",
+    "startTimeScheduled": "2025-06-14T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "50074",
+          "name": "AURORA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812772",
+    "startTimeScheduled": "2025-06-14T17:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812773",
+    "startTimeScheduled": "2025-06-14T20:35:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812774",
+    "startTimeScheduled": "2025-06-14T20:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51814",
+          "name": "Natus Vincere"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51822",
+          "name": "G2 Esports"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812775",
+    "startTimeScheduled": "2025-06-15T15:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51961",
+          "name": "Legacy",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812776",
+    "startTimeScheduled": "2025-06-15T18:15:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51822",
+          "name": "G2 Esports"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812777",
+    "startTimeScheduled": "2025-06-15T21:35:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52000",
+          "name": "Pain Gaming",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812778",
+    "startTimeScheduled": "2025-06-19T19:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49586",
+          "name": "Team Spirit"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812779",
+    "startTimeScheduled": "2025-06-20T00:20:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812780",
+    "startTimeScheduled": "2025-06-20T18:10:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51814",
+          "name": "Natus Vincere"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812781",
+    "startTimeScheduled": "2025-06-20T21:25:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812782",
+    "startTimeScheduled": "2025-06-21T18:00:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51819",
+          "name": "MOUZ"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812783",
+    "startTimeScheduled": "2025-06-21T21:50:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49643",
+          "name": "paiN"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2812784",
+    "startTimeScheduled": "2025-06-22T19:30:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51818",
+          "name": "Team Vitality",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51177",
+          "name": "The MongolZ",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814374",
+    "startTimeScheduled": "2025-06-07T15:10:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49627",
+          "name": "Heroic",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814375",
+    "startTimeScheduled": "2025-06-07T15:10:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51967",
+          "name": "Team Falcons",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814381",
+    "startTimeScheduled": "2025-06-07T16:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49533",
+          "name": "Virtus.Pro"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "49702",
+          "name": "OG",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814382",
+    "startTimeScheduled": "2025-06-07T16:00:00Z",
+    "format": {
+      "id": "1",
+      "nameShortened": "Bo1"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "52232",
+          "name": "BetBoom",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814891",
+    "startTimeScheduled": "2025-06-09T18:50:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51824",
+          "name": "FURIA"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51885",
+          "name": "B8",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  },
+  {
+    "id": "2814913",
+    "startTimeScheduled": "2025-06-09T22:35:00Z",
+    "format": {
+      "id": "3",
+      "nameShortened": "Bo3"
+    },
+    "title": {
+      "id": "28",
+      "name": "Counter Strike 2",
+      "nameShortened": "cs2"
+    },
+    "tournament": {
+      "id": "826167",
+      "name": "BLAST.tv Austin Major 2025",
+      "nameShortened": "BLAST.tv Austin Major 2025"
+    },
+    "teams": [
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51812",
+          "name": "FaZe Clan"
+        }
+      },
+      {
+        "scoreAdvantage": 0,
+        "baseInfo": {
+          "id": "51793",
+          "name": "3DMAX",
+          "nameShortened": ""
+        }
+      }
+    ],
+    "productServiceLevels": [
+      {
+        "productName": "directStreamsFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "liveDataFeed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "rapid",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoEmbed",
+        "serviceLevel": "FULL"
+      },
+      {
+        "productName": "videoRapid",
+        "serviceLevel": "FULL"
+      }
+    ]
+  }
+]

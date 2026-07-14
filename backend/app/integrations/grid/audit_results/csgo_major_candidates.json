@@ -1,0 +1,428 @@
+[
+  {
+    "id": "12",
+    "name": "StarLadder Minor CS:GO",
+    "nameShortened": "SLTV CS:GO",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "23",
+    "name": "Star Laddar Berlin Major 2019",
+    "nameShortened": "SLTV Major 2019",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "34101",
+    "name": "Tribo to Major 2020 Qualifier",
+    "nameShortened": "Tribo to Major 2020 ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "34102",
+    "name": "Tribo To Major",
+    "nameShortened": "Tribo",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "34120",
+    "name": "Tribo to Major 2020",
+    "nameShortened": "Tribo to Major 2020",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "78262",
+    "name": "StarLadder CIS RMR 2021: Open Qualifier #1",
+    "nameShortened": "StarLadder CIS RMR 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "78290",
+    "name": "StarLadder CIS RMR 2021: Open Qualifier #2",
+    "nameShortened": "StarLadder CIS RMR 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "80127",
+    "name": "StarLadder CIS RMR 2021: Closed Qualifier",
+    "nameShortened": "StarLadder CIS RMR 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "82119",
+    "name": "StarLadder CIS RMR 2021",
+    "nameShortened": "StarLadder CIS RMR 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "84565",
+    "name": "PGL Major Stockholm 2021",
+    "nameShortened": "PGL Major Stockholm ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102883",
+    "name": "PGL Major Antwerp 2022: European RMR - Open Qualifier #1",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102888",
+    "name": "PGL Major Antwerp 2022: Asia-Pacific RMR - Chinese Open Qualifier",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102889",
+    "name": "PGL Major Antwerp 2022: Asia-Pacific RMR - Southeast Asian Open Qualifier",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102890",
+    "name": "PGL Major Antwerp 2022: Asia-Pacific RMR - Middle Eastern Open Qualifier",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102907",
+    "name": "PGL Major Antwerp 2022: European RMR - Open Qualifier #2",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102921",
+    "name": "PGL Major Antwerp 2022: European RMR - Open Qualifier #3",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102923",
+    "name": "PGL Major Antwerp 2022: American RMR - South American Open Qualifier #1",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102936",
+    "name": "PGL Major Antwerp 2022: Asia-Pacific RMR - Oceanic Open Qualifier",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102939",
+    "name": "PGL Major Antwerp 2022: European RMR - Far East Russian Qualifier",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102940",
+    "name": "PGL Major Antwerp 2022: European RMR - Open Qualifier #4",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102944",
+    "name": "PGL Major Antwerp 2022: American RMR - South American Open Qualifier #2",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102968",
+    "name": "PGL Major Antwerp 2022: American RMR - North American Open Qualifier #1",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "102976",
+    "name": "PGL Major Antwerp 2022: American RMR - North American Open Qualifier #2",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "105902",
+    "name": "PGL Major Antwerp 2022: American RMR",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "105924",
+    "name": "PGL Major Antwerp 2022: Asia-Pacific RMR",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "105928",
+    "name": "PGL Major Antwerp 2022: European RMR A",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "105947",
+    "name": "PGL Major Antwerp 2022: European RMR B",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106034",
+    "name": "PGL Major Antwerp 2022",
+    "nameShortened": "PGL Major Antwerp 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106540",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Oceanic Open Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106541",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Chinese Open Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106543",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Middle Eastern Open Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106546",
+    "name": "IEM Road to Rio 2022: European RMR - Open Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106547",
+    "name": "IEM Road to Rio 2022: American RMR - North American Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106551",
+    "name": "IEM Road to Rio 2022: American RMR - South American Qualifier #1",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106567",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Chinese Open Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106568",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Asian Open Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106569",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Middle Eastern Open Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106573",
+    "name": "IEM Road to Rio 2022: American RMR - South American Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106576",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Oceanic Open Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106578",
+    "name": "IEM Road to Rio 2022: European RMR - Open Qualifier #3",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106587",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Asian Qualifier",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106588",
+    "name": "IEM Road to Rio 2022: Asia-Pacific RMR - Middle Eastern Qualifier",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106589",
+    "name": "IEM Road to Rio 2022: American RMR - South American Qualifier #3",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106591",
+    "name": "IEM Road to Rio 2022: European RMR - Open Qualifier #4",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106619",
+    "name": "IEM Road to Rio 2022: American RMR - North American Qualifier #2",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106632",
+    "name": "IEM Road to Rio 2022: American RMR - North American Qualifier #3",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106746",
+    "name": "IEM Road to Rio 2022: European RMR - Replacement Play-In",
+    "nameShortened": "IEM Road to Rio 2022",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106756",
+    "name": "Intel Extreme Masters Road to Rio 2022: European RMR A",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106757",
+    "name": "Intel Extreme Masters Road to Rio 2022: European RMR B",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106759",
+    "name": "Intel Extreme Masters Road to Rio 2022: American RMR",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106770",
+    "name": "Intel Extreme Masters Road to Rio 2022: Asia-Pacific RMR",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "106853",
+    "name": "Intel Extreme Masters Rio Major 2022",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320057",
+    "name": "BLAST.tv Paris Major 2023: European RMR Open Qualifier #1",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320062",
+    "name": "BLAST.tv Paris Major 2023: North American RMR Open Qualifier #1",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320063",
+    "name": "BLAST.tv Paris Major 2023: South American RMR Open Qualifier #1",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320065",
+    "name": "BLAST.tv Paris Major 2023: European RMR Open Qualifier #2",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320066",
+    "name": "BLAST.tv Paris Major 2023: Oceanic RMR Open Qualifier",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320069",
+    "name": "BLAST.tv Paris Major 2023: North American RMR Open Qualifier #2",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320070",
+    "name": "BLAST.tv Paris Major 2023: Chinese RMR Open Qualifier",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320071",
+    "name": "BLAST.tv Paris Major 2023: European RMR Qualifier A",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320072",
+    "name": "BLAST.tv Paris Major 2023: European RMR Qualifier B",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320073",
+    "name": "BLAST.tv Paris Major 2023: Oceanic RMR Qualifier",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320075",
+    "name": "BLAST.tv Paris Major 2023: South American RMR Open Qualifier #2",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "320076",
+    "name": "BLAST.tv Paris Major 2023: North American RMR Qualifier",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321669",
+    "name": "BLAST.tv Paris Major 2023: European Qualifier Decider",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321694",
+    "name": "BLAST.tv Paris Major 2023: Middle Eastern RMR Qualifier",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321938",
+    "name": "BLAST.tv Paris Major 2023: European RMR A",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321941",
+    "name": "BLAST.tv Paris Major 2023: American RMR",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321952",
+    "name": "BLAST.tv Paris Major 2023: European RMR B",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "321974",
+    "name": "BLAST.tv Paris Major 2023: European RMR Decider",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "322042",
+    "name": "BLAST.tv Paris Major 2023",
+    "nameShortened": "BLAST.tv Paris Major",
+    "venueType": "UNKNOWN"
+  }
+]

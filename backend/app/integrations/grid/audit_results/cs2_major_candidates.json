@@ -1,0 +1,272 @@
+[
+  {
+    "id": "756929",
+    "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1",
+    "nameShortened": "PGL CS2 Major Copenh",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756930",
+    "name": "PGL Major Copenhagen 2024: Arabian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756932",
+    "name": "PGL Major Copenhagen 2024: South African Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756934",
+    "name": "PGL Major Copenhagen 2024: Levantine & North African Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756936",
+    "name": "PGL Major Copenhagen 2024: South American Open Qualifier #1",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756946",
+    "name": "PGL Major Copenhagen 2024: North American Open Qualifier #1",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756949",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756950",
+    "name": "PGL Major Copenhagen 2024: South American Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756957",
+    "name": "PGL Major Copenhagen 2024: North American Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756958",
+    "name": "PGL Major Copenhagen 2024: Chinese Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756966",
+    "name": "PGL Major Copenhagen 2024: Oceanic Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756968",
+    "name": "PGL Major Copenhagen 2024: North American Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756971",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #3",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756979",
+    "name": "PGL Major Copenhagen 2024: East Asian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756983",
+    "name": "PGL Major Copenhagen 2024: Chinese Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756989",
+    "name": "PGL Major Copenhagen 2024: Southeast Asian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756992",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #4",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756997",
+    "name": "PGL Major Copenhagen 2024: South American Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757043",
+    "name": "PGL Major Copenhagen 2024: Middle Eastern Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757125",
+    "name": "PGL Major Copenhagen 2024: European RMR A",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757157",
+    "name": "PGL Major Copenhagen 2024: European RMR B",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757191",
+    "name": "PGL Major Copenhagen 2024: European RMR Decider",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757194",
+    "name": "PGL Major Copenhagen 2024: Asia-Pacific RMR",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757213",
+    "name": "PGL Major Copenhagen 2024: American RMR",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757326",
+    "name": "PGL Major Copenhagen 2024",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "775414",
+    "name": "Perfect World Shanghai Major 2024: European RMR B",
+    "nameShortened": "European RMR B",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775415",
+    "name": "Perfect World Shanghai Major 2024: European RMR A",
+    "nameShortened": "European RMR A",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775416",
+    "name": "Perfect World Shanghai Major 2024: American RMR",
+    "nameShortened": "American RMR",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775417",
+    "name": "Perfect World Shanghai Major 2024: Asia-Pacific RMR",
+    "nameShortened": "Asia-Pacific RMR",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775453",
+    "name": "Perfect World Shanghai Major 2024",
+    "nameShortened": "Shanghai Major 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825715",
+    "name": "Austin Major Europe Closed Qualifier",
+    "nameShortened": "Austin Major Europe CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825726",
+    "name": "Austin Major SA Closed Qualifier",
+    "nameShortened": "Austin Major SA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825727",
+    "name": "Austin Major Mongolia & West Asia Qualifier",
+    "nameShortened": "Austin Major Mongolia/WA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825728",
+    "name": "Austin Major NA Closed Qualifier",
+    "nameShortened": "Austin Major NA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825729",
+    "name": "Austin Major Oceania & SEA Qualifier",
+    "nameShortened": "Austin Major Oceania & SEA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825731",
+    "name": "Austin Major China Closed Qualifer",
+    "nameShortened": "Austin Major China Closed CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826167",
+    "name": "BLAST.tv Austin Major 2025",
+    "nameShortened": "BLAST.tv Austin Major 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827634",
+    "name": "GRID Major 2025",
+    "nameShortened": "GRID Major 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829241",
+    "name": "IEM Rio 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829191",
+      "name": "IEM Rio 2026",
+      "nameShortened": "IEM Rio 2026",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829250",
+    "name": "IEM Rio 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829191",
+      "name": "IEM Rio 2026",
+      "nameShortened": "IEM Rio 2026",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829191",
+    "name": "IEM Rio 2026",
+    "nameShortened": "IEM Rio 2026",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-19",
+    "venueType": "LAN"
+  },
+  {
+    "id": "830262",
+    "name": "StarLadder StarSeries Fall 2026 - European Qualifier",
+    "nameShortened": "SLSS Fall26 - EU Qualifier",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-26",
+    "venueType": "ONLINE"
+  }
+]

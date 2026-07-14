@@ -1,0 +1,217 @@
+{
+  "major": {
+    "slug": "austin_2025",
+    "grid_tournament_id": "826167",
+    "name": "BLAST.tv Austin Major 2025",
+    "year": 2025,
+    "title": "cs2",
+    "title_id": "28"
+  },
+  "grid_tournament": {
+    "id": "826167",
+    "name": "BLAST.tv Austin Major 2025",
+    "nameShortened": "BLAST.tv Austin Major 2025",
+    "venueType": "LAN",
+    "children": []
+  },
+  "child_tournament_count": 0,
+  "child_tournaments": [],
+  "series_count": 110,
+  "first_series": "2025-06-03T15:30:00Z",
+  "last_series": "2025-06-22T19:30:00Z",
+  "formats": {
+    "Bo1": 64,
+    "Bo3": 46
+  },
+  "stages": [
+    {
+      "name": "BLAST.tv Austin Major 2025",
+      "series_count": 110,
+      "first_series": "2025-06-03T15:30:00Z",
+      "last_series": "2025-06-22T19:30:00Z",
+      "formats": {
+        "Bo1": 64,
+        "Bo3": 46
+      }
+    }
+  ],
+  "teams": [
+    {
+      "id": "51793",
+      "name": "3DMAX",
+      "nameShortened": ""
+    },
+    {
+      "id": "50074",
+      "name": "AURORA",
+      "nameShortened": ""
+    },
+    {
+      "id": "51885",
+      "name": "B8",
+      "nameShortened": ""
+    },
+    {
+      "id": "52232",
+      "name": "BetBoom",
+      "nameShortened": ""
+    },
+    {
+      "id": "53767",
+      "name": "Chinggis Warriors",
+      "nameShortened": "CW"
+    },
+    {
+      "id": "52042",
+      "name": "Complexity",
+      "nameShortened": ""
+    },
+    {
+      "id": "51812",
+      "name": "FaZe Clan",
+      "nameShortened": ""
+    },
+    {
+      "id": "51311",
+      "name": "Fluxo",
+      "nameShortened": ""
+    },
+    {
+      "id": "53909",
+      "name": "Flyquest",
+      "nameShortened": "Flyquest"
+    },
+    {
+      "id": "51824",
+      "name": "FURIA",
+      "nameShortened": ""
+    },
+    {
+      "id": "51822",
+      "name": "G2 Esports",
+      "nameShortened": ""
+    },
+    {
+      "id": "49627",
+      "name": "Heroic",
+      "nameShortened": ""
+    },
+    {
+      "id": "49619",
+      "name": "Imperial",
+      "nameShortened": ""
+    },
+    {
+      "id": "51961",
+      "name": "Legacy",
+      "nameShortened": ""
+    },
+    {
+      "id": "49575",
+      "name": "Lynn Vision",
+      "nameShortened": "Lynn Vision Gaming"
+    },
+    {
+      "id": "52200",
+      "name": "M80",
+      "nameShortened": ""
+    },
+    {
+      "id": "51692",
+      "name": "Metizport",
+      "nameShortened": ""
+    },
+    {
+      "id": "51813",
+      "name": "MIBR",
+      "nameShortened": ""
+    },
+    {
+      "id": "51819",
+      "name": "MOUZ",
+      "nameShortened": ""
+    },
+    {
+      "id": "51814",
+      "name": "Natus Vincere",
+      "nameShortened": ""
+    },
+    {
+      "id": "49589",
+      "name": "Nemiga",
+      "nameShortened": ""
+    },
+    {
+      "id": "51823",
+      "name": "NRG",
+      "nameShortened": ""
+    },
+    {
+      "id": "49702",
+      "name": "OG",
+      "nameShortened": ""
+    },
+    {
+      "id": "49643",
+      "name": "paiN",
+      "nameShortened": ""
+    },
+    {
+      "id": "52000",
+      "name": "Pain Gaming",
+      "nameShortened": ""
+    },
+    {
+      "id": "51967",
+      "name": "Team Falcons",
+      "nameShortened": ""
+    },
+    {
+      "id": "51815",
+      "name": "Team Liquid",
+      "nameShortened": ""
+    },
+    {
+      "id": "49586",
+      "name": "Team Spirit",
+      "nameShortened": ""
+    },
+    {
+      "id": "51818",
+      "name": "Team Vitality",
+      "nameShortened": ""
+    },
+    {
+      "id": "51177",
+      "name": "The MongolZ",
+      "nameShortened": ""
+    },
+    {
+      "id": "49583",
+      "name": "TYLOO",
+      "nameShortened": ""
+    },
+    {
+      "id": "49533",
+      "name": "Virtus.Pro",
+      "nameShortened": ""
+    },
+    {
+      "id": "52230",
+      "name": "Wildcard",
+      "nameShortened": ""
+    },
+    {
+      "id": "52198",
+      "name": "Wildcard Gaming",
+      "nameShortened": ""
+    }
+  ],
+  "service_levels": {
+    "directStreamsFeed:FULL": 110,
+    "liveDataFeed:FULL": 110,
+    "rapid:FULL": 110,
+    "videoEmbed:FULL": 110,
+    "videoRapid:FULL": 110
+  }
+}

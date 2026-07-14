@@ -1,0 +1,6913 @@
+[
+  {
+    "id": "26",
+    "name": "GRID-TEST",
+    "nameShortened": "GRID-TEST",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515335",
+    "name": "ESL Challenger League Season 46: North America",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515475",
+    "name": "ESL Impact League Season 4: European Division",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515476",
+    "name": "ESL Impact League Season 4: South American Division",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515477",
+    "name": "ESL Impact League Season 4: North American Division",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515480",
+    "name": "ESL ANZ Champs Season 17",
+    "nameShortened": "ESL ANZ Champs Seaso",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515660",
+    "name": "Tipsport Cup Prague Fall 2023",
+    "nameShortened": "Tipsport Cup Prague Fall 2023",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515692",
+    "name": "Become The Best: Final Round",
+    "nameShortened": "Become The Best: Final Round",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515712",
+    "name": "Icelandic Premier League Regular Season",
+    "nameShortened": "Icelandic Premier League RS",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515715",
+    "name": "ESL Challenger League Season 46: Europe",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "515730",
+    "name": "Aveiro Techdays Cup 2023",
+    "nameShortened": "Aveiro Techdays Cup 2023",
+    "venueType": "LAN"
+  },
+  {
+    "id": "515749",
+    "name": "A1 Gaming League Season 7",
+    "nameShortened": "A1 Gaming League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515751",
+    "name": "Become The Best: Final Round - CS2",
+    "nameShortened": "Become The Best: Final Round",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515758",
+    "name": "A1 Adria League Season 12",
+    "nameShortened": "A1 Adria League Season 12",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "515781",
+    "name": "Polska Liga Esportowa 2023: Split #3",
+    "nameShortened": "Polska Liga Esportowa 2023",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515784",
+    "name": "Circuito Omen Retake Season 7, Take #2",
+    "nameShortened": "Circuito Omen Retake S7, T#2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515794",
+    "name": "CCT East Europe Series 3",
+    "nameShortened": "CCT East Europe S3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515796",
+    "name": "Tipsport Cup Prague Fall 2023 (LAN FINALS)",
+    "nameShortened": "Tipsport Cup Prague Fall LAN",
+    "venueType": "LAN"
+  },
+  {
+    "id": "515798",
+    "name": "Compass Fall 2023",
+    "nameShortened": "Compass Fall 2023",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "515799",
+    "name": "Thunderpick World Championship",
+    "nameShortened": "Thunderpick World Championship",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "517317",
+    "name": "Master League Portugal Season 12 CS2",
+    "nameShortened": "MLP Season 12 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "536334",
+    "name": "European Pro League Season 11 Division 1",
+    "nameShortened": "European Pro League Season 11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "536348",
+    "name": "Copa BetBoom",
+    "nameShortened": "Copa BetBoom",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "538029",
+    "name": "CCT East Europe Series #3",
+    "nameShortened": "CCT East Europe Seri",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "538602",
+    "name": "CCT North Europe Series #8",
+    "nameShortened": "CCT North Europe Series #8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "538919",
+    "name": "CCT Central Europe Series #8",
+    "nameShortened": "CCT Central Europe Series #8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "541209",
+    "name": "Skyesports Championship 5.0: European Qualifier",
+    "nameShortened": "Skyesports Champions",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "543010",
+    "name": "Roobet Cup 2023",
+    "nameShortened": "Roobet Cup 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "544649",
+    "name": "Esports Battles October 2023 CS2",
+    "nameShortened": "Esports Battles Oct 2023 CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "544669",
+    "name": "Esports Battles November 2023 CS2",
+    "nameShortened": "Esports Battles Nov 2023 CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "544686",
+    "name": "Esports Battles December 2023 CS2",
+    "nameShortened": "Esports Battles Dec 2023 CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "549525",
+    "name": "European Pro League Season 11",
+    "nameShortened": "European Pro League ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "549706",
+    "name": "Thunderpick World Championship 2023",
+    "nameShortened": "Thunderpick World Ch",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "551221",
+    "name": "CBCS 2023 Season 3",
+    "nameShortened": "CBCS 2023 S3 ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "551647",
+    "name": "Intel Extreme Masters China 2024: Chinese Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "552681",
+    "name": "CCT Central Europe Series #8: Closed Qualifier",
+    "nameShortened": "CCT Central Europe S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554136",
+    "name": "Circuito Omen Retake Season 7, Take #3",
+    "nameShortened": "Circuito Omen Retake S7, T3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "554399",
+    "name": "ESL Challenger at DreamHack Winter 2023: Asian Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554832",
+    "name": "CCT Oceania Series #3",
+    "nameShortened": "CCT Oceania Series #",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "554833",
+    "name": "Intel Extreme Masters China 2024: Chinese Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554840",
+    "name": "Beske Bes 2023",
+    "nameShortened": "Beske Bes 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554844",
+    "name": "Game Arena Cup 2023 Season 1",
+    "nameShortened": "Game Arena Cup 2023 ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554846",
+    "name": "CCT East Europe Series 4",
+    "nameShortened": "CCT EE Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "554850",
+    "name": "ESEA Cash Cup: Europe - Autumn 2023 #3",
+    "nameShortened": "ESEA Cash Cup: Europ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554854",
+    "name": "MČR 2023",
+    "nameShortened": "MČR 2023",
+    "venueType": "LAN"
+  },
+  {
+    "id": "554859",
+    "name": "MESA Pro Series: Fall 2023",
+    "nameShortened": "MESA Pro Series: Fal",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554860",
+    "name": "Good Game-ligaen Fall 2023",
+    "nameShortened": "Good Game-ligaen Fal",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554862",
+    "name": "United21 Season 7",
+    "nameShortened": "United21 Season 7",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554868",
+    "name": "DreamHack Hyderabad Invitational 2023",
+    "nameShortened": "DreamHack Hyderabad ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554869",
+    "name": "Female Bay Cup 2023",
+    "nameShortened": "Female Bay Cup 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554870",
+    "name": "ESL Impact Cash Cup: South America - Autumn 2023 #4",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554872",
+    "name": "CS Asia Championships 2023",
+    "nameShortened": "CS Asia Championship",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554875",
+    "name": "ESEA Cash Cup: Europe - Autumn 2023 #4",
+    "nameShortened": "ESEA Cash Cup: Europ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "554877",
+    "name": "European Pro League Season 12 Division 2",
+    "nameShortened": "EPL Season 12 Division 2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "554880",
+    "name": "EPL World Series: Americas Season 4",
+    "nameShortened": "EPL World Series: Americas S4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "555361",
+    "name": "Elisa Masters Espoo 2023",
+    "nameShortened": "Elisa Masters Espoo 2023",
+    "venueType": "LAN"
+  },
+  {
+    "id": "555925",
+    "name": "BetBoom Dacha: Closed Qualifier",
+    "nameShortened": "BetBoom Dacha: Close",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "560038",
+    "name": "Polska Liga Esportowa 2023: Finals",
+    "nameShortened": "PLE 2023: Finals",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "566121",
+    "name": "LEON x TEAMPLAY Season 2",
+    "nameShortened": "LEON x TEAMPLAY Seas",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "569106",
+    "name": "Hard Play Cup #8",
+    "nameShortened": "Hard Play Cup #8",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "570431",
+    "name": "CCT Oceania Series 4",
+    "nameShortened": "CCT Oceania Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "570751",
+    "name": "CCT Online Finals #4",
+    "nameShortened": "CCT Online Finals #4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "571179",
+    "name": "PARI Please",
+    "nameShortened": "PARI Please",
+    "venueType": "LAN"
+  },
+  {
+    "id": "572360",
+    "name": "Subway Suberior League Season 2",
+    "nameShortened": "Subway Suberior Leag",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "581583",
+    "name": "CBCS Invitational 2023",
+    "nameShortened": "CBCS Invitational 2023",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "581584",
+    "name": "Gamers Club Masters Feminina VIII",
+    "nameShortened": "GC Masters Feminina VIII",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "581609",
+    "name": "Circuito Omen Retake Season 7, Playoffs",
+    "nameShortened": "Circuito Omen Retake S7, PO",
+    "venueType": "LAN"
+  },
+  {
+    "id": "583986",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: North American Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "583987",
+    "name": "CCT Online Finals #5",
+    "nameShortened": "CCT Online Finals #5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "586302",
+    "name": "RES Adriatic League Season 3",
+    "nameShortened": "RES Adriatic League Season 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "587475",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: European Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "587476",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: North American Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "587477",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: Asian Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "591727",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: European Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "592510",
+    "name": "ESL Challenger at DreamHack Atlanta 2023: Asian Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "603953",
+    "name": "Europebet Cup 2023",
+    "nameShortened": "Europebet Cup 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "606480",
+    "name": "ESL Impact Cash Cup: Europe - Autumn 2023 #5",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "606585",
+    "name": "ESEA Cash Cup: Europe - Autumn 2023 #5",
+    "nameShortened": "ESEA Cash Cup: Europ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "609648",
+    "name": "BLAST Premier: Fall Final 2023",
+    "nameShortened": "BLAST Premier: Fall ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "611220",
+    "name": "FRAG Club Tournament Season 3: Uzbekistan",
+    "nameShortened": "FRAG Club Tournament",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "613791",
+    "name": "Svenska Elitserien Fall 2023",
+    "nameShortened": "Svenska Elitserien F",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "617226",
+    "name": "Circuito Retake Final 2023",
+    "nameShortened": "Circuito Retake Final 2023",
+    "venueType": "LAN"
+  },
+  {
+    "id": "617228",
+    "name": "Master League Portugal Season 12 Playoffs",
+    "nameShortened": "MLP S12 Playoffs",
+    "venueType": "LAN"
+  },
+  {
+    "id": "617253",
+    "name": "European Pro League Season 12 Division 1",
+    "nameShortened": "EPL Season 12 Division 1 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "620943",
+    "name": "ESL Challenger at DreamHack Winter 2023",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "625796",
+    "name": "AOC XL Clash 2023",
+    "nameShortened": "AOC XL Clash 2023",
+    "venueType": "LAN"
+  },
+  {
+    "id": "641164",
+    "name": "ESL Mistrzostwa Polski Autumn 2023",
+    "nameShortened": "ESL Mistrzostwa Pols",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "641747",
+    "name": "European Pro League Season 12",
+    "nameShortened": "European Pro League ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "641999",
+    "name": "ESL Meisterschaft: Autumn 2023",
+    "nameShortened": "ESL Meisterschaft: A",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "647155",
+    "name": "Dust2.in Masters #4",
+    "nameShortened": "Dust2.in Masters #4",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "650048",
+    "name": "DreamHack Winter 2023 BYOC",
+    "nameShortened": "DreamHack Winter 202",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "650204",
+    "name": "FRAG Club Tournament Season 3: Kazakhstan",
+    "nameShortened": "FRAG Club Tournament",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "650559",
+    "name": "United21 Season 8",
+    "nameShortened": "United21 Season 8",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "650865",
+    "name": "Svenska Cupen 2023",
+    "nameShortened": "Svenska Cupen 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "651880",
+    "name": "ESL Challenger League Season 47: Oceania - Open Qualifier #1",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "651881",
+    "name": "ESL Challenger League Season 47: South America - Open Qualifier #1",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "652980",
+    "name": "OlyBet Sports Bar Baltics Cup",
+    "nameShortened": "OlyBet Sports Bar Ba",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "653346",
+    "name": "Dust2.dk Ligaen Season 24",
+    "nameShortened": "Dust2.dk Ligaen Seas",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "653401",
+    "name": "FRAG Club Tournament Season 3",
+    "nameShortened": "FRAG Club Tournament",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "654466",
+    "name": "Polska Liga Esportowa 2023",
+    "nameShortened": "Polska Liga Esportow",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "658068",
+    "name": "ESL Challenger League Season 47: Oceania - Open Qualifier #2",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "661070",
+    "name": "ESL Challenger League Season 47: South America - Open Qualifier #2",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "669038",
+    "name": "ESL Challenger League Season 46: Asia-Pacific",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "669093",
+    "name": "Corsair Championship 2023",
+    "nameShortened": "Corsair Championship",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "671158",
+    "name": "La Coupe 2023",
+    "nameShortened": "La Coupe 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "672061",
+    "name": "ESEA Cash Cup: North America - Autumn 2023 #6",
+    "nameShortened": "ESEA Cash Cup: North",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "675754",
+    "name": "ESEA Cash Cup: Europe - Autumn 2023 #6",
+    "nameShortened": "ESEA Cash Cup: Europ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "675815",
+    "name": "ESL Impact Cash Cup: North America - Autumn 2023 #6",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "685037",
+    "name": "ESEA Season 47: Advanced Division - Europe",
+    "nameShortened": "ESEA Season 47: Adva",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "686450",
+    "name": "European Pro League Season 13: Division 2",
+    "nameShortened": "EPL Season 13: Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "686857",
+    "name": "Gamers Club Liga Série A: December 2023 (Playoffs only)",
+    "nameShortened": "Gamers Club Liga Série A",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "688077",
+    "name": "ESL Impact League Season 4",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "695083",
+    "name": "UKIC League Season 0: Division 1",
+    "nameShortened": "UKIC League Season 0",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "695895",
+    "name": "LATAM Rookie Challenge 9 (Playoff only)",
+    "nameShortened": "LATAM Rookie Challenge 9",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "704023",
+    "name": "ESEA Season 47: Advanced Division - North America",
+    "nameShortened": "ESEA Season 47: Adva",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "714586",
+    "name": "Dogmination Iberian Premier 2023",
+    "nameShortened": "Dogmination Iberian ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "719185",
+    "name": "Mythic Winter Cup 2023",
+    "nameShortened": "Mythic Winter Cup 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "725952",
+    "name": "BLAST Premier: World Final 2023",
+    "nameShortened": "BLAST Premier: World",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "726025",
+    "name": "ESL Challenger League Season 46 Relegation Play-In: North America",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727323",
+    "name": "Esports Battles January 2024 CS2",
+    "nameShortened": "Esports Battles Jan 2024 CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "727324",
+    "name": "Esports Battles February 2024 CS2",
+    "nameShortened": "Esports Battles Feb 2024 CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "727325",
+    "name": "Esports Battles March 2024 CS2",
+    "nameShortened": "Esports Battles Mar 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727326",
+    "name": "Esports Battles April 2024 CS2",
+    "nameShortened": "Esports Battles April 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727327",
+    "name": "Esports Battles May 2024 CS2",
+    "nameShortened": "Esports Battles May 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727328",
+    "name": "Esports Battles June 2024 CS2",
+    "nameShortened": "Esports Battles Jun 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727329",
+    "name": "Esports Battles July 2024 CS2",
+    "nameShortened": "Esports Battles Jul 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727330",
+    "name": "Esports Battles August 2024 CS2",
+    "nameShortened": "Esports Battles Aug 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727331",
+    "name": "Esports Battles September 2024 CS2",
+    "nameShortened": "Esports Battles Sep 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727332",
+    "name": "Esports Battles October 2024 CS2",
+    "nameShortened": "Esports Battles Oct 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727333",
+    "name": "Esports Battles November 2024 CS2",
+    "nameShortened": "Esports Battles Nov 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727334",
+    "name": "Esports Battles December 2024 CS2",
+    "nameShortened": "Esports Battles Dec 2024 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727335",
+    "name": "ESL Challenger at DreamHack Atlanta 2023",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727337",
+    "name": "Monsters Reloaded 2023",
+    "nameShortened": "Monsters Reloaded 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727339",
+    "name": "E-sporta Virslīga Season 1",
+    "nameShortened": "E-sporta Virslīga S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727340",
+    "name": "Gaming Devoted Become The Best",
+    "nameShortened": "Gaming Devoted Becom",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727341",
+    "name": "EPL World Series: Americas Season 5",
+    "nameShortened": "EPL World Series: Americas S5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "727342",
+    "name": "ESL Challenger League Season 46 Relegation: Europe",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727343",
+    "name": "Dust2 Brasil Liga Season 2",
+    "nameShortened": "Dust2 Brasil Liga Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727344",
+    "name": "Esportal LuckyCasino Cup",
+    "nameShortened": "Esportal LuckyCasino",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727345",
+    "name": "ESL Challenger League Season 46 Relegation: North America",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727346",
+    "name": "22BET Christmas Cup",
+    "nameShortened": "22BET Christmas Cup",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727348",
+    "name": "FRAG Winter Battle Cup 2023",
+    "nameShortened": "FRAG Winter Battle C",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727349",
+    "name": "United21 Season 9",
+    "nameShortened": "United21 Season 9",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727350",
+    "name": "Dust2.in Masters #5",
+    "nameShortened": "Dust2.in Masters #5",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727351",
+    "name": "ESEA Cash Cup: North America - Autumn 2023 #7",
+    "nameShortened": "ESEA Cash Cup: North",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727352",
+    "name": "ESL Impact Cash Cup: North America - Autumn 2023 #7",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "727353",
+    "name": "Amber Clutch Season 6",
+    "nameShortened": "Amber Clutch Season ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756836",
+    "name": "Betswap Winter Cup",
+    "nameShortened": "Betswap Winter Cup",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756837",
+    "name": "Cyber Alliance Cup #3",
+    "nameShortened": "Cyber Alliance Cup #",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756838",
+    "name": "Esportal Hälsokampen",
+    "nameShortened": "Esportal Hälsokampe",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756900",
+    "name": "European Pro League Season 14 Division 2 - CS2",
+    "nameShortened": "EPL S14 DIV 2 CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "756929",
+    "name": "PGL CS2 Major Copenhagen 2024 Europe RMR Open Qualifier 1",
+    "nameShortened": "PGL CS2 Major Copenh",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756930",
+    "name": "PGL Major Copenhagen 2024: Arabian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756932",
+    "name": "PGL Major Copenhagen 2024: South African Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756934",
+    "name": "PGL Major Copenhagen 2024: Levantine & North African Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756936",
+    "name": "PGL Major Copenhagen 2024: South American Open Qualifier #1",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756946",
+    "name": "PGL Major Copenhagen 2024: North American Open Qualifier #1",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756949",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756950",
+    "name": "PGL Major Copenhagen 2024: South American Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756957",
+    "name": "PGL Major Copenhagen 2024: North American Open Qualifier #2",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756958",
+    "name": "PGL Major Copenhagen 2024: Chinese Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756966",
+    "name": "PGL Major Copenhagen 2024: Oceanic Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756968",
+    "name": "PGL Major Copenhagen 2024: North American Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756970",
+    "name": "Copenhagen Gaming Week 2024",
+    "nameShortened": "Copenhagen Gaming We",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756971",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #3",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756974",
+    "name": "Intel Extreme Masters China 2024: South American Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756978",
+    "name": "Intel Extreme Masters Chengdu 2024: Oceanic Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756979",
+    "name": "PGL Major Copenhagen 2024: East Asian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756981",
+    "name": "Intel Extreme Masters Chengdu 2024: South American Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756982",
+    "name": "Intel Extreme Masters Chengdu 2024: North American Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756983",
+    "name": "PGL Major Copenhagen 2024: Chinese Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756989",
+    "name": "PGL Major Copenhagen 2024: Southeast Asian Open Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756992",
+    "name": "PGL Major Copenhagen 2024: European Open Qualifier #4",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756993",
+    "name": "Intel Extreme Masters Chengdu 2024: Oceanic Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756994",
+    "name": "United21 Season 10",
+    "nameShortened": "United21 Season 10",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756995",
+    "name": "Intel Extreme Masters Chengdu 2024: South American Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "756997",
+    "name": "PGL Major Copenhagen 2024: South American Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757003",
+    "name": "BLAST Premier: Spring Groups 2024",
+    "nameShortened": "BLAST Premier: Sprin",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757004",
+    "name": "ESL Pro League Season 19: European Conference",
+    "nameShortened": "ESL Pro League Seaso",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757013",
+    "name": "Intel Extreme Masters Chengdu 2024: Oceanic Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757015",
+    "name": "European Pro League Season 13",
+    "nameShortened": "European Pro League ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757020",
+    "name": "Intel Extreme Masters Chengdu 2024: Asian Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757021",
+    "name": "ESL Pro League Season 19: South American Qualifier",
+    "nameShortened": "ESL Pro League Seaso",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757029",
+    "name": "ESL Pro League Season 19: Oceanic Qualifier",
+    "nameShortened": "ESL Pro League Seaso",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757033",
+    "name": "eXTREMESLAND 2023",
+    "nameShortened": "eXTREMESLAND 2023",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757034",
+    "name": "Intel Extreme Masters Chengdu 2024: Asian Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757042",
+    "name": "Gamers Club Liga Série A: January 2024 Playoffs",
+    "nameShortened": "Gamers Club Liga Série A",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757043",
+    "name": "PGL Major Copenhagen 2024: Middle Eastern Qualifier",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757050",
+    "name": "Intel Extreme Masters Chengdu 2024: Asian Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757052",
+    "name": "YaLLa Compass Spring 2024",
+    "nameShortened": "YaLLa Compass Spring",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757055",
+    "name": "Intel Extreme Masters Katowice 2024",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757056",
+    "name": "ESL Impact Cash Cup: North America - Winter 2024 #2",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757057",
+    "name": "ESL Impact Cash Cup: Europe - Winter 2024 #2",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757062",
+    "name": "5E Arena Asia Cup Spring 2024",
+    "nameShortened": "5E Arena Asia Cup Sp",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757067",
+    "name": "RES Season 6",
+    "nameShortened": "RES Season 6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757069",
+    "name": "Intel Extreme Masters Chengdu 2024: European Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757070",
+    "name": "A1 Gaming League Season 8",
+    "nameShortened": "A1 Gaming League Season 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757071",
+    "name": "Ace South American Masters Spring 2024",
+    "nameShortened": "Ace South American M",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757077",
+    "name": "Ace North American Masters Spring 2024",
+    "nameShortened": "Ace North American M",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757082",
+    "name": "RTP Arena Cup 2024",
+    "nameShortened": "RTP Arena Cup 2024",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757086",
+    "name": "United21 Season 10: Division 2",
+    "nameShortened": "United21 Season 10: ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757089",
+    "name": "Pelaajat.com Series Spring 2024: Nordic Open Qualifier #1",
+    "nameShortened": "Pelaajat.com Series ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757090",
+    "name": "Pelaajat.com Series Spring 2024",
+    "nameShortened": "Pelaajat.com Series ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757091",
+    "name": "Pelaajat.com Series Spring 2024: Nordic Open Qualifier #2",
+    "nameShortened": "Pelaajat.com Series ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757092",
+    "name": "Dubai Police Esports Tournament: SWAT Edition 2024",
+    "nameShortened": "Dubai Police Esports",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757093",
+    "name": "ESL Impact Cash Cup: South America - Winter 2024 #3",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757094",
+    "name": "ESL Impact Cash Cup: North America - Winter 2024 #3",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757095",
+    "name": "ESL Impact Cash Cup: Europe - Winter 2024 #3",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757096",
+    "name": "European Pro League Season 15 Division 2 - CS2",
+    "nameShortened": "European Pro League Season 15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757102",
+    "name": "RES Western European Masters: Spring 2024",
+    "nameShortened": "RES Western European",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757106",
+    "name": "Intel Extreme Masters Chengdu 2024: European Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757120",
+    "name": "BLAST The Draft Season 1",
+    "nameShortened": "BLAST The Draft Seas",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757122",
+    "name": "RedZone PRO League 2024 Season 1",
+    "nameShortened": "RedZone PRO League 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757123",
+    "name": "RCL 2024: Advanced League",
+    "nameShortened": "RCL 2024: Advanced L",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757125",
+    "name": "PGL Major Copenhagen 2024: European RMR A",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757126",
+    "name": "ESL Challenger League Season 47: North America",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757127",
+    "name": "ESL Challenger League Season 47: South America",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757128",
+    "name": "RES Latin American Series #1",
+    "nameShortened": "RES Latin American S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757129",
+    "name": "EPL World Series: Americas Season 6",
+    "nameShortened": "EPL World Series: Americas S6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757141",
+    "name": "ESL Impact League Season 5: South American Division - Open Qualifier #1",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757142",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: Oceanic Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757143",
+    "name": "ESL Impact League Season 5: North American Division - Open Qualifier #1",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757144",
+    "name": "OneQode Frontier",
+    "nameShortened": "OneQode Frontier",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757145",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: Asian Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757148",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: Oceanic Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757149",
+    "name": "ESL Impact League Season 5: European Division - Open Qualifier #1",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757150",
+    "name": "Intel Extreme Masters Dallas 2024: South American Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757152",
+    "name": "RES Eastern European Masters: Spring 2024",
+    "nameShortened": "RES Eastern European",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757153",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: Asian Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757155",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: North American Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757157",
+    "name": "PGL Major Copenhagen 2024: European RMR B",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757158",
+    "name": "Master League Portugal Season 13",
+    "nameShortened": "Master League Portugal S13",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757159",
+    "name": "ESL Impact League Season 5: North American Division - Open Qualifier #2",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757163",
+    "name": "United21 Season 11",
+    "nameShortened": "United21 Season 11",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757164",
+    "name": "ESL Impact League Season 5: European Division - Open Qualifier #2",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757165",
+    "name": "Intel Extreme Masters Dallas 2024: Oceanic Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757169",
+    "name": "ESL Challenger League Season 47: Oceania",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757174",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: North American Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757176",
+    "name": "Intel Extreme Masters Dallas 2024: South American Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757180",
+    "name": "Intel Extreme Masters Dallas 2024: Oceanic Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757181",
+    "name": "Gamers Club Liga Série A: February 2024 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: February 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757183",
+    "name": "Contest Pro League Season 3",
+    "nameShortened": "Contest Pro League S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757184",
+    "name": "Battle of Baltics 2024",
+    "nameShortened": "Battle of Baltics 20",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757185",
+    "name": "Intel Extreme Masters Dallas 2024: Oceanic Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757186",
+    "name": "Intel Extreme Masters Dallas 2024: South American Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757187",
+    "name": "Intel Extreme Masters Dallas 2024: North American Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757191",
+    "name": "PGL Major Copenhagen 2024: European RMR Decider",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757192",
+    "name": "Elisa Invitational Spring 2024",
+    "nameShortened": "Elisa Invitational S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757194",
+    "name": "PGL Major Copenhagen 2024: Asia-Pacific RMR",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757195",
+    "name": "Intel Extreme Masters Dallas 2024: North American Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757196",
+    "name": "Assembly Winter Showdown 2024",
+    "nameShortened": "Assembly Winter Show",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757199",
+    "name": "Dust2.in Masters #7",
+    "nameShortened": "Dust2.in Masters #7",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757200",
+    "name": "Tradeit League FE Masters #1",
+    "nameShortened": "Tradeit League FE Ma",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757201",
+    "name": "EPIC.LAN 41",
+    "nameShortened": "EPIC.LAN 41",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757202",
+    "name": "ESL Challenger League Season 47: Europe",
+    "nameShortened": "ESL Challenger Leagu",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757203",
+    "name": "ESL Impact Cash Cup: South America - Winter 2024 #4",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757204",
+    "name": "RES European Series #1",
+    "nameShortened": "RES European Series ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757205",
+    "name": "ESL Impact Cash Cup: North America - Winter 2024 #4",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757206",
+    "name": "ESL Impact Cash Cup: Europe - Winter 2024 #4",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757207",
+    "name": "Intel Extreme Masters Dallas 2024: North American Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757211",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: European Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757213",
+    "name": "PGL Major Copenhagen 2024: American RMR",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757214",
+    "name": "ESL Challenger at DreamHack Melbourne 2024: European Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757215",
+    "name": "European Pro League Season 14",
+    "nameShortened": "European Pro League ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757217",
+    "name": "Master League Portugal Season 13 - Playoffs",
+    "nameShortened": "MLP S13 Playoffs",
+    "venueType": "LAN"
+  },
+  {
+    "id": "757224",
+    "name": "Intel Extreme Masters Dallas 2024: European Open Qualifier #1",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757225",
+    "name": "ESL Impact Cash Cup: North America - Winter 2024 #5",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757228",
+    "name": "BLAST Premier: Spring Showdown 2024",
+    "nameShortened": "BLAST Premier: Sprin",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757230",
+    "name": "ESL Impact Cash Cup: Europe - Winter 2024 #5",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757232",
+    "name": "ESL Impact League Season 5: European Division",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757233",
+    "name": "ESL Impact League Season 5: South American Division",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757236",
+    "name": "Intel Extreme Masters Dallas 2024: European Open Qualifier #2",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757237",
+    "name": "ESEA Season 48: Advanced Division - Europe",
+    "nameShortened": "ESEA Season 48: Adva",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757243",
+    "name": "RES Latin American Series #2",
+    "nameShortened": "RES Latin American S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757244",
+    "name": "Asian Super League S2",
+    "nameShortened": "ASL S2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757252",
+    "name": "EPL World Series: Americas Season 7 - CS2",
+    "nameShortened": "EPL World Series: Americas S7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757272",
+    "name": "Intel Extreme Masters Dallas 2024: European Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757273",
+    "name": "United21 Season 12",
+    "nameShortened": "United21 Season 12",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757288",
+    "name": "ESL Challenger at DreamHack Summer 2024: Swedish Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757290",
+    "name": "ESL Impact League Season 5: Asian Qualifier",
+    "nameShortened": "ESL Impact League Se",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757303",
+    "name": "United21 Season 13",
+    "nameShortened": "United21 S13",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757304",
+    "name": "Polska Liga Esportowa 2024 Split 1",
+    "nameShortened": "PLE 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757305",
+    "name": "Fragadelphia CS:DO",
+    "nameShortened": "Fragadelphia CS:DO",
+    "venueType": "LAN"
+  },
+  {
+    "id": "757311",
+    "name": "Skyesports Grand Slam 2024",
+    "nameShortened": "Skyesports Grand Sla",
+    "venueType": "LAN"
+  },
+  {
+    "id": "757313",
+    "name": "Tipsport Cup Winter 2024",
+    "nameShortened": "Tipsport Cup Winter ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757314",
+    "name": "ESL Challenger at DreamHack Summer 2024: Asian Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757316",
+    "name": "ESL Challenger at DreamHack Summer 2024: North American Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757323",
+    "name": "UKIC League Season 1: Division 1",
+    "nameShortened": "UKIC League Season 1",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757324",
+    "name": "ESEA Season 48: Advanced Division - North America",
+    "nameShortened": "ESEA Season 48: Adva",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757326",
+    "name": "PGL Major Copenhagen 2024",
+    "nameShortened": "PGL Major Copenhagen",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757328",
+    "name": "Bergen Games 2024",
+    "nameShortened": "Bergen Games 2024",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757329",
+    "name": "Icelandic Premier League Playoffs",
+    "nameShortened": "Icelandic Premier League",
+    "venueType": "LAN"
+  },
+  {
+    "id": "757338",
+    "name": "Fragster League Season 5",
+    "nameShortened": "Fragster League Seas",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757347",
+    "name": "Fragadelphia CS/DO 2024",
+    "nameShortened": "Fragadelphia CS/DO 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757352",
+    "name": "CSGOEmpire Cup 2024",
+    "nameShortened": "CSGOEmpire Cup 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757353",
+    "name": "Thunderpick World Championship 2024 - EU Qualifier #1",
+    "nameShortened": "Thunderpick WC 2024 - EU Q1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "757354",
+    "name": "Skyesports Masters 2024: European Qualifier",
+    "nameShortened": "Skyesports Masters 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "757361",
+    "name": "European Pro League Season 16: Division 2 - CS2",
+    "nameShortened": "European Pro League Season 16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "758119",
+    "name": "Gamers Club Liga Série A: March 2024 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: March 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "758863",
+    "name": "Svenska Elitserien Spring 2024",
+    "nameShortened": "Svenska Elitserien Spring 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "758864",
+    "name": "Icelandic Esports League Season 8",
+    "nameShortened": "Icelandic Esports Le",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "758921",
+    "name": "The Game Expo 2024",
+    "nameShortened": "The Game Expo 2024",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "759110",
+    "name": "Dust2.in Masters #8",
+    "nameShortened": "Dust2.in Masters #8",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "759217",
+    "name": "Dust2.dk Ligaen Season 25",
+    "nameShortened": "Dust2.dk Ligaen Seas",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "760983",
+    "name": "YGames PRO Series 2024",
+    "nameShortened": "YGPRO Series 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "761473",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 1",
+    "nameShortened": "CCT Season 2 - EU Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "761482",
+    "name": "ESL Challenger at DreamHack Summer 2024: European Open Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761485",
+    "name": "Skyesports Masters 2024: Indian Qualifier",
+    "nameShortened": "Skyesports Masters 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761486",
+    "name": "United21 Season14",
+    "nameShortened": "United21 Season14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "761488",
+    "name": "Gameinside.ua ROG Spring Cup 2024",
+    "nameShortened": "Gameinside.ua ROG Sp",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761489",
+    "name": "ESL Challenger at DreamHack Summer 2024: Asian Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761494",
+    "name": "ESL Challenger at DreamHack Summer 2024: European Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761495",
+    "name": "ESL Challenger at DreamHack Summer 2024: North American Closed Qualifier",
+    "nameShortened": "ESL Challenger at Dr",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761496",
+    "name": "Insomnia 72",
+    "nameShortened": "Insomnia 72",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761508",
+    "name": "BetBoom Dacha Belgrade 2024: European Qualifier",
+    "nameShortened": "BetBoom Dacha Belgra",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761509",
+    "name": "European Pro League Season 15 - CS2",
+    "nameShortened": "European Pro League Season 15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "761514",
+    "name": "Esportal LuckyCasino Cup 2024",
+    "nameShortened": "Esportal LuckyCasino",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761519",
+    "name": "Intel Extreme Masters Chengdu 2024",
+    "nameShortened": "Intel Extreme Master",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761521",
+    "name": "RES Latin American Series #3",
+    "nameShortened": "RES Latin American S",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761522",
+    "name": "Skyesports Masters 2024",
+    "nameShortened": "Skyesports Masters 2",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761525",
+    "name": "Tradeit League FE Masters #2",
+    "nameShortened": "Tradeit League FE Ma",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761526",
+    "name": "European Pro League Female Season 1",
+    "nameShortened": "European Pro League ",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "761985",
+    "name": "ESL Impact Cash Cup: North America - Spring 2024 #7",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "764311",
+    "name": "ESL Impact Cash Cup: Europe - Spring 2024 #7",
+    "nameShortened": "ESL Impact Cash Cup:",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "774558",
+    "name": "SHOWMATCH: Flamengo X Corinthians",
+    "nameShortened": "Flamengo X Corinthians",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774559",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 2",
+    "nameShortened": "CCT S2 - EU Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774560",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 3",
+    "nameShortened": "CCT S2 - EU Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774561",
+    "name": "Global Esports Tour Rio de Janeiro 2024",
+    "nameShortened": "GET Rio de Janeiro 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774590",
+    "name": "Asian Super League Season 3",
+    "nameShortened": "ASL Season 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774597",
+    "name": "Frag Miami",
+    "nameShortened": "Frag Miami",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774599",
+    "name": "Gamers Club Liga Série A: April 2024 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: April 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774600",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 4",
+    "nameShortened": "CCT S2 - EU Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774601",
+    "name": "Thunderpick World Championship 2024 - SA Qualifier #1",
+    "nameShortened": "Thunderpick WC 2024 - SA1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774605",
+    "name": "United21 Season 15",
+    "nameShortened": "United21 Season 15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774607",
+    "name": "Champion of Champions Tour - Global Finals 2024",
+    "nameShortened": "CCT - Global Finals 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774608",
+    "name": "HellCup #9",
+    "nameShortened": "HellCup #9",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774615",
+    "name": "Circuito Retake Season 8: Take #1",
+    "nameShortened": "Circuito Retake S8: Take #1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774619",
+    "name": "Thunderpick World Championship 2024 - NA Qualifier #1",
+    "nameShortened": "Thunderpick WC 2024 - NA Q1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774620",
+    "name": "European Pro League Season 17: Division 2 - CS2",
+    "nameShortened": "EPL S17 D2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774629",
+    "name": "CBCS Season 4",
+    "nameShortened": "CBCS Season 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774636",
+    "name": "Thunderpick World Championship 2024 - NA Qualifier #2",
+    "nameShortened": "Thunderpick WC 2024 - NA Q2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774637",
+    "name": "Champion of Champions Tour Season 2 - North America Series 1",
+    "nameShortened": "CCT S2 - NA Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774638",
+    "name": "Champion of Champions Tour Season 2 - South America Series 1",
+    "nameShortened": "CCT S2 - SA Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774639",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 5",
+    "nameShortened": "CCT S2 - EU Series 5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774649",
+    "name": "Óbidos Kings Cup II",
+    "nameShortened": "Óbidos Kings Cup II",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774650",
+    "name": "United21 Season 16",
+    "nameShortened": "United21 Season 16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774651",
+    "name": "Circuito Retake Season 8: Take #2",
+    "nameShortened": "Circuito Retake Season 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774652",
+    "name": "EPL World Series: Americas Season 8 - CS2",
+    "nameShortened": "EPL World Series: Americas S8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774744",
+    "name": "Appolo1 Series: Phase 2",
+    "nameShortened": "Appolo1 Series: Phase 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774745",
+    "name": "European Pro League Season 16 Division 1 - CS2",
+    "nameShortened": "EPL S16 Division 1 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774756",
+    "name": "Gamers Club Liga Série A: May 2024 (Playoffs)",
+    "nameShortened": "Liga Série A: May 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774769",
+    "name": "MESA Nomadic Masters Spring 2024",
+    "nameShortened": "MESA Spring 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774781",
+    "name": "Thunderpick World Championship 2024 - WILDCARD Qualifier",
+    "nameShortened": "Thunderpick WC - WQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774788",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 6",
+    "nameShortened": "CCT S2 - EU Series 6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774802",
+    "name": "Circuito Retake Season 8: Take #3",
+    "nameShortened": "Circuito Retake S8: Take #3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774803",
+    "name": "Circuito Retake Season 8: Playoffs",
+    "nameShortened": "Circuito Retake S8: Playoffs",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774853",
+    "name": "YaLLa Compass 2024",
+    "nameShortened": "YaLLa Compass 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774897",
+    "name": "FiReLEAGUE Global Finals",
+    "nameShortened": "FiReLEAGUE Global Finals",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774898",
+    "name": "United21 South America Season 1",
+    "nameShortened": "United21 SA S1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774908",
+    "name": "European Pro League Season 18: Division 2 - CS2",
+    "nameShortened": "EPL S18 Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774914",
+    "name": "Gamers Club Liga Série A: June 2024 (Playoffs only)",
+    "nameShortened": "GC Liga S-A: June 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774918",
+    "name": "FemmeFury: Queens of the Server",
+    "nameShortened": "FemmeFury: QoS",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774932",
+    "name": "Frag Kansas City",
+    "nameShortened": "Frag Kansas City",
+    "venueType": "LAN"
+  },
+  {
+    "id": "774933",
+    "name": "United21 Season 17",
+    "nameShortened": "United21 Season 17",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774934",
+    "name": "Champion of Champions Tour Season 2 - South America Series 2",
+    "nameShortened": "CCT S2 - SA Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774938",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 7",
+    "nameShortened": "CCT S2 - EU Series 7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774939",
+    "name": "Thunderpick World Championship 2024 - SA Qualifier #2",
+    "nameShortened": "Thunderpick WC 2024 - SA2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774950",
+    "name": "CBCS Season 5",
+    "nameShortened": "CBCS Season 5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774954",
+    "name": "European Pro League Season 17: Division 1",
+    "nameShortened": "EPL S17: D1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "774959",
+    "name": "EPL World Series: Americas Season 9",
+    "nameShortened": "EPL World Series: Americas S9",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775002",
+    "name": "Champion of Champions Tour Season 2 - North America Series 2",
+    "nameShortened": "CCT S2 - NA Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775003",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 8",
+    "nameShortened": "CCT S2 - EU Series 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775005",
+    "name": "Esports World Cup 2024 - CS2",
+    "nameShortened": "Esports World Cup 2024 - CS2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775025",
+    "name": "Gamers Club Liga Série A: July 2024 (Playoffs only)",
+    "nameShortened": "Gamers Club Liga S-A: July 24 ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775026",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 9",
+    "nameShortened": "CCT Season 2 - Europe Series 9",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775029",
+    "name": "La Liga Pro 2024",
+    "nameShortened": "La Liga Pro 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775030",
+    "name": "Circuito Estadual Ferjee 2024 - Closed Qualifier",
+    "nameShortened": "Circuito Estadual Ferjee 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775038",
+    "name": "United21 South America Season 2",
+    "nameShortened": "United21 South America S2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775050",
+    "name": "European Pro League Season 19: Division 2 - CS2",
+    "nameShortened": "EPL S19: Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775051",
+    "name": "United21 Season 18",
+    "nameShortened": "United21 Season 18",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775079",
+    "name": "XPL S2 Playoffs",
+    "nameShortened": "XPL S2 Playoffs",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775080",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 10",
+    "nameShortened": "CCT S2 - Europe Series 10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775081",
+    "name": "Champion of Champions Tour Season 2 - South America Series 3",
+    "nameShortened": "CCT S2 - SA Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775082",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 11",
+    "nameShortened": "CCT S2 - Europe Series 11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775083",
+    "name": "Thunderpick World Championship 2024 - EU Qualifier #2",
+    "nameShortened": "Thunderpick WC 2024 - EU Q2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775118",
+    "name": "Prodigy Series #1",
+    "nameShortened": "Prodigy Series #1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775121",
+    "name": "European Pro League Season 18",
+    "nameShortened": "EPL Season 18",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775126",
+    "name": "Champion of Champions Tour Season 2 - North America Series 3",
+    "nameShortened": "CCT S2 - NA Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775127",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 12",
+    "nameShortened": "CCT S2 - EU Series 12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775135",
+    "name": "Prodigy Series #2",
+    "nameShortened": "Prodigy Series #2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775151",
+    "name": "Gamers Club Liga Série A: August 2024",
+    "nameShortened": "Gamers Club Liga S-A August 24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775155",
+    "name": "United21 Season 19",
+    "nameShortened": "United21 Season 19",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775160",
+    "name": "European Pro League Season 20: Division 2 - CS2",
+    "nameShortened": "EPL S20 Division 2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775170",
+    "name": "Fragicago '24",
+    "nameShortened": "Fragicago '24",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775171",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 13",
+    "nameShortened": "CCT Europe S2 Series 13",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775173",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 14",
+    "nameShortened": "CCT Europe S2 Series 14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775175",
+    "name": "Ljósleiðara deildin 2024",
+    "nameShortened": "Ljósleiðara deildin 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775191",
+    "name": "Galaxy Battle #1",
+    "nameShortened": "Galaxy Battle #1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775202",
+    "name": "A1 Gaming League S9",
+    "nameShortened": "A1 Gaming League S9",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775203",
+    "name": "Master League Portugal Season 14",
+    "nameShortened": "Master League Portugal S14",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775204",
+    "name": "CBCS Masters 2024",
+    "nameShortened": "CBCS Masters 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775206",
+    "name": "United21 Season 20",
+    "nameShortened": "United21 Season 20",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775210",
+    "name": "European Pro League Season 19 - CS2",
+    "nameShortened": "EPL S19 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775213",
+    "name": "Prodigy Series #3",
+    "nameShortened": "Prodigy Series #3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775225",
+    "name": "Circuito Retake Season 9: Take #1",
+    "nameShortened": "Circuito Retake S9 Take#1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775226",
+    "name": "Super Copa Feminina 2024",
+    "nameShortened": "Super Copa Feminina 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775298",
+    "name": "Gamers Club Liga Série A: September 2024 (Playoffs only)",
+    "nameShortened": "GC Liga A Sep 2024 Playoffs",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775299",
+    "name": "Majstrovstvá SR 2024",
+    "nameShortened": "Majstrovstvá SR 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775304",
+    "name": "Champion of Champions Tour Season 2 - South America Series 4",
+    "nameShortened": "CCT S2 - South America S4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775306",
+    "name": "Circuito Retake Season 9: Take #2",
+    "nameShortened": "Circuito Retake S9: Take #2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775307",
+    "name": "T-esports Championship Season 3",
+    "nameShortened": "T-esports Championship S3",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775308",
+    "name": "Thunderpick World Championship 2024 - Online Stage",
+    "nameShortened": "Thunderpick WC 2024 - Online",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775310",
+    "name": "Galaxy Battle #2",
+    "nameShortened": "Galaxy Battle #2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775313",
+    "name": "European Pro League Season 21: Division 2 - CS2",
+    "nameShortened": "EPL S21: Division 2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775316",
+    "name": "United21  Season 21",
+    "nameShortened": "United21  Season 21",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775361",
+    "name": "FragPhillyTap2",
+    "nameShortened": "FragPhillyTap2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775362",
+    "name": "Master League Portugal Season 15",
+    "nameShortened": "Master League Portugal S15",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775363",
+    "name": "Thunderpick World Championship 2024 - Finals",
+    "nameShortened": "Thunderpick WC 2024 - Finals",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775364",
+    "name": "Circuito Retake Season 9: Take #3",
+    "nameShortened": "Circuito Retake S9: Take #3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775376",
+    "name": "CBCS Invitational 2024",
+    "nameShortened": "CBCS Invitational 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775380",
+    "name": "European Pro League Season 20 - CS2",
+    "nameShortened": "EPL S20 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775392",
+    "name": "United21 Season 22",
+    "nameShortened": "United21 Season 22",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775396",
+    "name": "Gamers Club Liga Série A: October 2024 (Playoffs only)",
+    "nameShortened": "GC Liga A Oct 2024 Playoffs",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775397",
+    "name": "Circuito Retake Season 9: Playoffs",
+    "nameShortened": "Circuito Retake S9: Playoffs",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775413",
+    "name": "Desafio Brasileiro de Esports 2024",
+    "nameShortened": "DBE 2024",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "775414",
+    "name": "Perfect World Shanghai Major 2024: European RMR B",
+    "nameShortened": "European RMR B",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775415",
+    "name": "Perfect World Shanghai Major 2024: European RMR A",
+    "nameShortened": "European RMR A",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775416",
+    "name": "Perfect World Shanghai Major 2024: American RMR",
+    "nameShortened": "American RMR",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775417",
+    "name": "Perfect World Shanghai Major 2024: Asia-Pacific RMR",
+    "nameShortened": "Asia-Pacific RMR",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775424",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 15",
+    "nameShortened": "CCT Europe S2 Series 15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775430",
+    "name": "Champion of Champions Tour Season 2 - South America Series 5",
+    "nameShortened": "CCT S2 - South America S5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775433",
+    "name": "European Pro League Season 22: Division 2 - CS2",
+    "nameShortened": "EPL Season 22: Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775434",
+    "name": "United21 Season 16: Division 2",
+    "nameShortened": "United21 Season 16: Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775435",
+    "name": "United21 Season 23",
+    "nameShortened": "United21 Season 23",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775446",
+    "name": "Gamers Club Liga Série A: November 2024",
+    "nameShortened": "GC Liga Série A: November 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775453",
+    "name": "Perfect World Shanghai Major 2024",
+    "nameShortened": "Shanghai Major 2024",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775465",
+    "name": "European Pro League Season 21 - CS2",
+    "nameShortened": "EPL Season 21",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775471",
+    "name": "Perseverance League: Persevere Division",
+    "nameShortened": "Perseverance League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775477",
+    "name": "Fragadelphia 18",
+    "nameShortened": "Fragadelphia 18",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775478",
+    "name": "European Pro League 23: Division 2 - CS2",
+    "nameShortened": "EPL Season 23: Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775479",
+    "name": "United21 Season 24",
+    "nameShortened": "United21 Season 24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775480",
+    "name": "Gamers Club Liga Série A: December 2024 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: December 2024",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775499",
+    "name": "Galaxy Battle #5",
+    "nameShortened": "Galaxy Battle #5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775536",
+    "name": "Asian Super League Season 4",
+    "nameShortened": "Asian Super League S4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775590",
+    "name": "United21  Season 25",
+    "nameShortened": "United21 Season 25",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775591",
+    "name": "European Pro League Season 24: Division 2 - CS2",
+    "nameShortened": "EPL S24 Division 2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775594",
+    "name": "Launders LAN #2",
+    "nameShortened": "Launders LAN #2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775595",
+    "name": "BLAST Bounty Spring 2025: Closed Qualifier",
+    "nameShortened": "Bounty Spring 2025 CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775648",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 16",
+    "nameShortened": "CCT SS 2 - Europe Series 16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775649",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 17",
+    "nameShortened": "CCT S2 - Europe Series 17",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775650",
+    "name": "Champion of Champions Tour Season 2 - South America Series 6",
+    "nameShortened": "CCT S2 - SA Series 6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775651",
+    "name": "Champion of Champions Tour Season 2 - North America Series 4",
+    "nameShortened": "CCT S 2 - NA Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775703",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 18",
+    "nameShortened": "CCT S2 EU Series 18",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775711",
+    "name": "BLAST Bounty Spring 2025",
+    "nameShortened": "BLAST Bounty Spring 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775741",
+    "name": "Skyesports Souvenir 2025 - Closed Qualifiers",
+    "nameShortened": "Skyesports Souvenir 2025 - CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775748",
+    "name": "United21 Season 26",
+    "nameShortened": "United21 Season 26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775749",
+    "name": "European Pro League Season 22 - CS2",
+    "nameShortened": "EPL Season 22 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775774",
+    "name": "Gamers Club Liga Série A: January 2025 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: January 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775798",
+    "name": "Champion of Champions Tour Season 2 - South America Series 7",
+    "nameShortened": "CCT S2 - SASeries 7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775799",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 19",
+    "nameShortened": "CCT S2 - EU Series 19",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775805",
+    "name": "EU Winter Hunt",
+    "nameShortened": "EU Winter Hunt",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775864",
+    "name": "BLAST Rising Europe Spring 2025: Closed Qualifier",
+    "nameShortened": "BLAST Rising EU Spring 25: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775865",
+    "name": "BLAST Rising South America Spring 2025: Closed Qualifier",
+    "nameShortened": "BLAST Rising SA Spring 25: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775866",
+    "name": "BLAST Rising Asia Spring 2025: Closed Qualifier",
+    "nameShortened": "BLAST Rising A Spring 25: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775867",
+    "name": "BLAST Rising North America Spring 2025: Closed Qualifier",
+    "nameShortened": "BLAST Rising NA Spring 25: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775868",
+    "name": "BLAST Rising Europe Spring 2025",
+    "nameShortened": "BLAST Rising EU Spring 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775869",
+    "name": "BLAST Rising South America Spring 2025",
+    "nameShortened": "BLAST Rising SA Spring 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775870",
+    "name": "BLAST Rising Asia Spring 2025",
+    "nameShortened": "BLAST Rising Asia Spring 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775871",
+    "name": "BLAST Rising North America Spring 2025",
+    "nameShortened": "BLAST Rising NA Spring 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775927",
+    "name": "EPL World Series: Oceania Season 1 - CS2",
+    "nameShortened": "EPL WS: Oceania S1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775935",
+    "name": "Dfrag Invitational 2025",
+    "nameShortened": "Dfrag Invitational 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "775936",
+    "name": "Dfrag Invitational 2025: Closed Qualifier",
+    "nameShortened": "Dfrag Invitational 2025: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "775967",
+    "name": "European Pro League Season 25: Division 2 - CS2",
+    "nameShortened": "EPL Season 25: Div 2 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776090",
+    "name": "United21  Season 27",
+    "nameShortened": "United21  Season 27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776118",
+    "name": "Champion of Champions Tour Season 2 - Europe Series 20",
+    "nameShortened": "CCT S2 - Europe Series 20",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776125",
+    "name": "A1 Gaming League Season 10",
+    "nameShortened": "A1 Gaming League S10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776126",
+    "name": "Gamers Club Liga Série A: February 2025 (Playoffs)",
+    "nameShortened": "Liga Série A Feb 2025 Playoffs",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776194",
+    "name": "Champion of Champions Tour Season 2 - South America Series 8",
+    "nameShortened": "CCT S2 - SA Series 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776359",
+    "name": "European Pro League Season 23 - CS2",
+    "nameShortened": "EPL S23 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "776360",
+    "name": "United21 Season 28",
+    "nameShortened": "United21 S28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "794144",
+    "name": "Galaxy Battle Starter",
+    "nameShortened": "Galaxy Battle Starter",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "798725",
+    "name": "BLAST Open Spring 2025",
+    "nameShortened": "BLAST Open Spring 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "805158",
+    "name": "Svenska Elitserien Spring 2025",
+    "nameShortened": "Svenska Elitserien Spring 2025",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "825398",
+    "name": "EPL World Series: Oceania Season 2 - CS2",
+    "nameShortened": "EPL World Series: Oceania S2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825401",
+    "name": "European Pro League Season 26: Division 2 - CS2",
+    "nameShortened": "European Pro League S26: D2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825402",
+    "name": "United21 Season 29",
+    "nameShortened": "United21 Season 29",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825423",
+    "name": "Gamers Club Liga Série A: March 2025 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: March 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825546",
+    "name": "YGames PRO Series 2025",
+    "nameShortened": "YGames PRO Series 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825715",
+    "name": "Austin Major Europe Closed Qualifier",
+    "nameShortened": "Austin Major Europe CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825722",
+    "name": "FiReLEAGUE 2025 South America East",
+    "nameShortened": "FiReLEAGUE 2025 SA East",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825723",
+    "name": "FiReLEAGUE 2025 South America South",
+    "nameShortened": "FiReLEAGUE 2025 SA South",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825726",
+    "name": "Austin Major SA Closed Qualifier",
+    "nameShortened": "Austin Major SA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825727",
+    "name": "Austin Major Mongolia & West Asia Qualifier",
+    "nameShortened": "Austin Major Mongolia/WA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825728",
+    "name": "Austin Major NA Closed Qualifier",
+    "nameShortened": "Austin Major NA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825729",
+    "name": "Austin Major Oceania & SEA Qualifier",
+    "nameShortened": "Austin Major Oceania & SEA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825731",
+    "name": "Austin Major China Closed Qualifer",
+    "nameShortened": "Austin Major China Closed CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825767",
+    "name": "Thunderpick World Championship 2025 EU#1",
+    "nameShortened": "Thunderpick WC 2025 EU#1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825768",
+    "name": "CCT Season 3 Europe Series 1",
+    "nameShortened": "CCT Season 3 Europe S1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825769",
+    "name": "CCT Season 2 Global Finals",
+    "nameShortened": "CCT Season 2 Global Finals",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825771",
+    "name": "Level Up LUND!",
+    "nameShortened": "Level Up LUND!",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825812",
+    "name": "Galaxy Battle Phase 1",
+    "nameShortened": "Galaxy Battle Phase 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825813",
+    "name": "European Pro League Season 24 - CS2",
+    "nameShortened": "EPL Season 24 - CS2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825881",
+    "name": "United21 Season 30",
+    "nameShortened": "United21 Season 30",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825895",
+    "name": "Asian Champions League 2025 - CS",
+    "nameShortened": "Asian Champions League 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825922",
+    "name": "European Pro League Series 1",
+    "nameShortened": "EPL Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825923",
+    "name": "SAW Esports Arena Spring Cup",
+    "nameShortened": "SAW Esports Arena Spring Cup",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825924",
+    "name": "FiReLEAGUE 2025 Finals",
+    "nameShortened": "FiReLEAGUE 2025 Finals",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825936",
+    "name": "Gamers Club Liga Série A: April 2025 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: April 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "825952",
+    "name": "BLAST Rivals Spring 2025",
+    "nameShortened": "BLAST Rivals Spring 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "825973",
+    "name": "United21 Season 31",
+    "nameShortened": "United21 Season 31",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826012",
+    "name": "Thunderpick World Championship 2025 NA#1",
+    "nameShortened": "Thunderpick WC 2025 NA#1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826014",
+    "name": "MESA Nomadic Masters: Spring 2025",
+    "nameShortened": "MESA Nomadic Masters 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826021",
+    "name": "European Pro league Season 27 Division 2",
+    "nameShortened": "European Pro league S27 D2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826025",
+    "name": "XSE Pro League S4",
+    "nameShortened": "XSE Pro League S4",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "826031",
+    "name": "Stórmeistaramótið",
+    "nameShortened": "Stórmeistaramótið",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "826036",
+    "name": "Galaxy Battle Phase 2",
+    "nameShortened": "Galaxy Battle Phase 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826041",
+    "name": "Master League Portugal Season 16",
+    "nameShortened": "MLP Season 16",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826042",
+    "name": "Circuito Retake Season 10 - Closed Qualifiers",
+    "nameShortened": "CR S10 - Closed Qualifiers",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826074",
+    "name": "CCT Season 3 Europe Series 2",
+    "nameShortened": "CCT Season 3 Europe S2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826084",
+    "name": "European Pro league Season 25 Division 1",
+    "nameShortened": "EPL Season 25 Division ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826091",
+    "name": "United21 Season 32",
+    "nameShortened": "United21 Season 32",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826167",
+    "name": "BLAST.tv Austin Major 2025",
+    "nameShortened": "BLAST.tv Austin Major 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826171",
+    "name": "Circuito Retake Season 10: Playoffs",
+    "nameShortened": "Circuito Retake S10: Playoffs",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826178",
+    "name": "CCT Season 3 Europe Series 3",
+    "nameShortened": "CCT S3 EU Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826180",
+    "name": "CCT Season 3 South America Series 1",
+    "nameShortened": "CCT S 3 SA Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826186",
+    "name": "Gamers Club Liga Série A: May 2025 (Playoffs only)",
+    "nameShortened": "GC Liga Série A: May 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826188",
+    "name": "Gamers Club Series A May 2025 (Playoffs Only)",
+    "nameShortened": "Gamers Club Series A May 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826234",
+    "name": "Galaxy Battle Phase 3",
+    "nameShortened": "Galaxy Battle Phase 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826235",
+    "name": "United21 Season 33",
+    "nameShortened": "United21 Season 33",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826236",
+    "name": "European Pro league Season 28 Division 2",
+    "nameShortened": "EPL Season 28 Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826562",
+    "name": "Thunderpick World Championship 2025 SA#1",
+    "nameShortened": "Thunderpick WC 2025 SA#1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826582",
+    "name": "GamersClub Series A June 2025",
+    "nameShortened": "GamersClub Series A June 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826611",
+    "name": "Thunderpick World Championship 2025 SA#2",
+    "nameShortened": "Thunderpick WC 2025 SA#2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826612",
+    "name": "CCT Season 3 Oceania Series 1",
+    "nameShortened": "CCT Season 3 Oceania Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826624",
+    "name": "United21 Season 34",
+    "nameShortened": "United21 Season 34",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826625",
+    "name": "European Pro League Season 26 Division 1",
+    "nameShortened": "European Pro League S26 D1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826634",
+    "name": "Rushzone CS2 June 2025",
+    "nameShortened": "Rushzone CS2 June 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826635",
+    "name": "Rushzone CS2 July 2025",
+    "nameShortened": "Rushzone CS2 July 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826656",
+    "name": "GangKui Cup Season 1",
+    "nameShortened": "GangKui Cup Season 1",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "826688",
+    "name": "Esports World Cup 2025 - Counter-Strike 2",
+    "nameShortened": "EWC 2025 - Counter-Strike 2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826706",
+    "name": "Circuito FERJEE 2025",
+    "nameShortened": "Circuito FERJEE 2025",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "826738",
+    "name": "Whale.io Cup 2025",
+    "nameShortened": "Whale.io Cup 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826749",
+    "name": "ESL Pro League Season 22: Asian Qualifier",
+    "nameShortened": "ESL PL S22: Asian Qualifier",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826750",
+    "name": "ESL Pro League Season 22: South American Qualifier",
+    "nameShortened": "ESL PL S22: SA Qualifier",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826751",
+    "name": "ESL Pro League Season 22: North American Qualifier",
+    "nameShortened": "ESL PL S22: NA Qualifier",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826752",
+    "name": "ESL Pro League Season 22: European Qualifier",
+    "nameShortened": "ESL PL S22: EU Qualifier",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826785",
+    "name": "CCT Season 3 Europe Series 4",
+    "nameShortened": "CCT Season 3 Europe Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826787",
+    "name": "Thunderpick World Championship 2025 NA#2",
+    "nameShortened": "Thunderpick WC 2025 NA#2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826788",
+    "name": "CCT Season 3 South America Series 2",
+    "nameShortened": "CCT Season 3 SA Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826812",
+    "name": "United21 Season 35",
+    "nameShortened": "United21 Season 35",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826837",
+    "name": "European Pro league Season 29 Division 2",
+    "nameShortened": "EPL Season 29 Division 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826838",
+    "name": "Liga Gamers Club Série A 2025 July",
+    "nameShortened": "Liga GC Série A 2025 July",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826851",
+    "name": "BLAST Risings Fall 2025 - Europe",
+    "nameShortened": "BLAST Risings Fall 2025 - EU",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826855",
+    "name": "Fragadelphia 19",
+    "nameShortened": "Fragadelphia 19",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826872",
+    "name": "Eternity League Season 6",
+    "nameShortened": "Eternity League Season 6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826874",
+    "name": "OMEN Roman Imperium Cup I",
+    "nameShortened": "OMEN Roman Imperium Cup I",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826875",
+    "name": "IEM Cologne 2025",
+    "nameShortened": "IEM Cologne 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826886",
+    "name": "BLAST Risings Fall 2025 - South America",
+    "nameShortened": "BLAST Risings Fall 2025 - SA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826887",
+    "name": "BLAST Risings Fall 2025 - North America",
+    "nameShortened": "BLAST Risings Fall 2025 - NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826888",
+    "name": "BLAST Risings Fall 2025 - Asia",
+    "nameShortened": "BLAST Risings Fall 2025 - Asia",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826889",
+    "name": "CCT Season 3 South America Series 3",
+    "nameShortened": "CCT S3 SA Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826892",
+    "name": "Urban Academies #1",
+    "nameShortened": "Urban Academies #1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826896",
+    "name": "Thunderpick World Championship 2025 EU#2",
+    "nameShortened": "Thunderpick WC 2025 EU#2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826912",
+    "name": "CCT Season 3 North America Series 1",
+    "nameShortened": "CCT S3 North America Series 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826914",
+    "name": "Rushzone CS2 August 2025",
+    "nameShortened": "Rushzone CS2 August 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826923",
+    "name": "Eternity League Season 7",
+    "nameShortened": "Eternity League Season 7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826933",
+    "name": "CCT Season 3 Europe Series 5",
+    "nameShortened": "CCT Season 3 Europe Series 5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826934",
+    "name": "United21 Season 36",
+    "nameShortened": "United21 Season 36",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826936",
+    "name": "European Pro league Season 27 Division 1",
+    "nameShortened": "EPL S27 Division 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826937",
+    "name": "BLAST Bounty Fall 2025: Closed Qualifier",
+    "nameShortened": "BLAST Bounty Fall 2025: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826940",
+    "name": "ESL Challenger League Season 50 - Cup #1 Europe",
+    "nameShortened": "ESL Challenger LS 50 -  Europe",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826941",
+    "name": "ESL Challenger League Season 50 - Cup #1 South America",
+    "nameShortened": "ESL CLS 50 - South America",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826942",
+    "name": "ESL Challenger League Season 50 - Cup #1 North America",
+    "nameShortened": "ESL CLS 50 -  North America",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826943",
+    "name": "ESL Challenger League Season 50 - Cup #1 Oceania",
+    "nameShortened": "ESL CL 50 - Oceania",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826944",
+    "name": "ESL Challenger League Season 50 - Cup #1 Asia",
+    "nameShortened": "ESL CL 50 - Asia",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826945",
+    "name": "BLAST Bounty Fall 2025",
+    "nameShortened": "BLAST Bounty Fall 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "826966",
+    "name": "European Pro League - Series 2",
+    "nameShortened": "European Pro League - Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826974",
+    "name": "Svenska Elitserien Fall 2025",
+    "nameShortened": "Svenska Elitserien Fall 2025",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "826987",
+    "name": "CCT Season 3 Oceania Series 2",
+    "nameShortened": "CCT Season 3 Oceania Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826993",
+    "name": "GamersClub Series A August 2025 (Playoffs Only)",
+    "nameShortened": "GamersClub Series A AUG 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "826994",
+    "name": "United21 Season 37",
+    "nameShortened": "United21 Season 37",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827002",
+    "name": "CCT Season 3 Europe Series 6",
+    "nameShortened": "CCT Season 3 Europe Series 6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827019",
+    "name": "BLAST Open Fall 2025",
+    "nameShortened": "BLAST Open Fall 2025",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "827023",
+    "name": "CCT Season 3 South America Series 4",
+    "nameShortened": "CCT S3 South America Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827046",
+    "name": "Rushzone CS2 September 2025",
+    "nameShortened": "Rushzone CS2 September 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827066",
+    "name": "Ljosleidaradeildin",
+    "nameShortened": "Ljosleidaradeildin",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "827101",
+    "name": "ESL Challenger League Season 50 - Cup #2 Asia",
+    "nameShortened": "ESL CLS 50 - Cup #2 Asia",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827102",
+    "name": "ESL Challenger League Season 50 - Cup #2 Oceania",
+    "nameShortened": "ESL CLS 50 - Cup #2 Oceania",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827103",
+    "name": "ESL Challenger League Season 50 - Cup #2 South America",
+    "nameShortened": "ESL CLS 50 - Cup #2 SA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827104",
+    "name": "ESL Challenger League Season 50 - Cup #2 North America",
+    "nameShortened": "ESL CLS 50 - Cup #2 NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827105",
+    "name": "ESL Challenger League Season 50 - Cup #2 Europe",
+    "nameShortened": "ESL CLS 50 - Cup #2 Europe",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827118",
+    "name": "Thunderpick World Championship 2025 Closed Qualifiers",
+    "nameShortened": "Thunderpick WC 2025 CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827168",
+    "name": "Galaxy Battle Phase 4",
+    "nameShortened": "Galaxy Battle Phase 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827205",
+    "name": "CCT Season 3 Europe Series 7",
+    "nameShortened": "CCT S3 Europe Series 7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827210",
+    "name": "Radio Popular Roman Imperium Cup II",
+    "nameShortened": "Roman Imperium Cup II",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827212",
+    "name": "CCT Season 3 Contenders Europe 1",
+    "nameShortened": "CCT Season 3 Contenders EU 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827213",
+    "name": "United21 Season 38",
+    "nameShortened": "United21 Season 38",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827224",
+    "name": "CCT Season 3 Europe Series 8",
+    "nameShortened": "CCT Season 3 Europe Series 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827225",
+    "name": "MESA Nomadic Masters: Fall 2025",
+    "nameShortened": "MESA Nomadic Fall 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827241",
+    "name": "ESL Pro League Season 22",
+    "nameShortened": "ESL Pro League S22",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827244",
+    "name": "Liga Gamers Club Série A 2025 September",
+    "nameShortened": "Liga GC Série A 2025 September",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827249",
+    "name": "T-esports Championship Season 4",
+    "nameShortened": "T-esports Champ Season 4",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "827250",
+    "name": "CCT Season 3 North America Series 2 ",
+    "nameShortened": "CCT Season 3 NA Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827274",
+    "name": "CCT Season 3 South America Series 5",
+    "nameShortened": "CCT S3 South America S5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827284",
+    "name": "Rushzone CS2 October 2025",
+    "nameShortened": "Rushzone CS2 October 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827285",
+    "name": "ESL Challenger League Season 50 - Cup #3 Europe",
+    "nameShortened": "ECL Season 50 - Cup #3 Europe",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827286",
+    "name": "ESL Challenger League Season 50 - Cup #3 North America",
+    "nameShortened": "ECL Season 50 - Cup #3 NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827287",
+    "name": "ESL Challenger League Season 50 - Cup #3 South America",
+    "nameShortened": "ECL Season 50 - Cup #3 SA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827288",
+    "name": "ESL Challenger League Season 50 - Cup #3 Oceania",
+    "nameShortened": "ECL Season 50 - Cup #3 Oceania",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827289",
+    "name": "ESL Challenger League Season 50 - Cup #3 Asia",
+    "nameShortened": "ECL Season 50 - Cup #3 Asia",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827290",
+    "name": "European Pro league Regular Season 1",
+    "nameShortened": "EPL - Regular Season 1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827298",
+    "name": "DFRAG Open Series - Season 1",
+    "nameShortened": "DFRAG Open Series - Season 1",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827302",
+    "name": "XSE Pro League S5",
+    "nameShortened": "XSE Pro League S5",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827303",
+    "name": "XSE Challenger League S2",
+    "nameShortened": "XSE Challenger League S2",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827304",
+    "name": "Circuito X SA #1",
+    "nameShortened": "Circuito X SA #1",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827310",
+    "name": "CCT Season 3 Europe Series 9",
+    "nameShortened": "CCT S3 Europe Series 9",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827311",
+    "name": "Thunderpick World Championship 2025 Finals",
+    "nameShortened": "Thunderpick WC 2025 Finals",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827326",
+    "name": "United21 Season 39",
+    "nameShortened": "United21 Season 39",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827330",
+    "name": "Majstrovstvá SR 2025",
+    "nameShortened": "Majstrovstvá SR 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827358",
+    "name": "Master League Portugal Season 17",
+    "nameShortened": "MLP S17",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827388",
+    "name": "BLAST Rivals Fall 2025",
+    "nameShortened": "BLAST Rivals Fall 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827394",
+    "name": "ESL Challenger League Season 50 - Cup #4 Europe",
+    "nameShortened": "ECL Season 50 - Cup #4 Europe",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827395",
+    "name": "ESL Challenger League Season 50 - Cup #4 North America",
+    "nameShortened": "ECL Season 50 - Cup #4 NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827396",
+    "name": "ESL Challenger League Season 50 - Cup #4 South America",
+    "nameShortened": "ECL Season 50 - Cup #4 SA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827397",
+    "name": "ESL Challenger League Season 50 - Cup #4 Oceania",
+    "nameShortened": "ECL Season 50 - Cup #4 Oceania",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827398",
+    "name": "ESL Challenger League Season 50 - Cup #4 Asia",
+    "nameShortened": "ECL Season 50 - Cup #4 Asia",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827402",
+    "name": "CCT Season 3 Europe Series 10",
+    "nameShortened": "CCT S3 EU Se10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827405",
+    "name": "European Pro League Regular Season 2",
+    "nameShortened": "EPL Reg S2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827407",
+    "name": "United21 Season 40",
+    "nameShortened": "United21 Season 40",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827408",
+    "name": "CBCS Masters Xeque Mate 2025",
+    "nameShortened": "CBCS Masters Xeque Mate 2025",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "827412",
+    "name": "Galaxy Battle Phase 5",
+    "nameShortened": "Galaxy Battle Phase 5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827413",
+    "name": "Liga Gamers Club Série A 2025 October",
+    "nameShortened": "Liga Gamers Club Série A OCT",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827414",
+    "name": "CCT Season 3 South America Series 6",
+    "nameShortened": "CCT S3 South America S6",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827415",
+    "name": "CCT Season 3 Europe Series 11",
+    "nameShortened": "CCT S3 Europe Series 11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827425",
+    "name": "IEM Chengdu 2025",
+    "nameShortened": "IEM Chengdu 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827437",
+    "name": "CCT Season 3 Contenders EEU - Series 1",
+    "nameShortened": "CCT S3 Contenders EEU - S1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827443",
+    "name": "CCT Season 3 Contenders Europe 2",
+    "nameShortened": "CCT Season 3 Contenders EU 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827444",
+    "name": "Rushzone CS2 November 2025",
+    "nameShortened": "Rushzone CS2 November 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827450",
+    "name": "European Pro league Series 3",
+    "nameShortened": "European Pro league Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827451",
+    "name": "Circuito X Retake Sao Paulo",
+    "nameShortened": "Circuito X Retake Sao Paulo",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827455",
+    "name": "Omen Retake Season 11: Closed Qualifiers",
+    "nameShortened": "Omen Retake S11 CQ's",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827491",
+    "name": "ESL Challenger League Season 50 - Europe Finals",
+    "nameShortened": "ESL Challenger League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827492",
+    "name": "ESL Challenger League Season 50 - North America Finals",
+    "nameShortened": "ESL Challenger League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827493",
+    "name": "ESL Challenger League Season 50 - South America Finals",
+    "nameShortened": "ESL Challenger League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827494",
+    "name": "ESL Challenger League Season 50 - Asia Finals",
+    "nameShortened": "ESL Challenger League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827495",
+    "name": "ESL Challenger League Season 50 - Oceania Finals",
+    "nameShortened": "ESL Challenger League",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827496",
+    "name": "United21 Season 41",
+    "nameShortened": "United21 Season 41",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827509",
+    "name": "CCT Season 3 Oceania Series 3",
+    "nameShortened": "CCT Season 3 Oceania Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827511",
+    "name": "CCT Season 3 Europe Series 12",
+    "nameShortened": "CCT Season 3 Europe Series 12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827518",
+    "name": "ESEA Advanced Season 55 - Europe",
+    "nameShortened": "ESEA Advanced S55  EU",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827519",
+    "name": "ESEA Advanced Season 55 - North America",
+    "nameShortened": "ESEA Advanced S55 NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827570",
+    "name": "Omen Retake S11: Playoffs",
+    "nameShortened": "Omen Retake S11: Playoffs",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827622",
+    "name": "X2ONE Masters 1",
+    "nameShortened": "X2ONE Masters 1",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827626",
+    "name": "Liga Gamers Club Série A 2025 November",
+    "nameShortened": "Liga GC Série A 2025 November",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827627",
+    "name": "Rushzone CS2 December 2025",
+    "nameShortened": "Rushzone CS2 December 2025",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827629",
+    "name": "ANZC LAN",
+    "nameShortened": "ANZC LAN",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827632",
+    "name": "DFRAG Open Series - Series 2",
+    "nameShortened": "DFRAG Open Series - Series 2",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827634",
+    "name": "GRID Major 2025",
+    "nameShortened": "GRID Major 2025",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827635",
+    "name": "United21 Season 42",
+    "nameShortened": "United21 Season 42",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827648",
+    "name": "United21 Christmas Cup",
+    "nameShortened": "United21 Christmas Cup",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827658",
+    "name": "Exort Meteor Season 1",
+    "nameShortened": "EM S1",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827660",
+    "name": "European Pro League Regular Season 3",
+    "nameShortened": "EPL Regular Season 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827669",
+    "name": "Liga Gamers Club Série A 2025 December (Playoffs Only)",
+    "nameShortened": "Liga GC Série A 2025 December",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827718",
+    "name": "Rushzone CS2 January 2026",
+    "nameShortened": "Rushzone CS2 January 2026",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827719",
+    "name": "ESEA Advanced Season 56 - Europe",
+    "nameShortened": "ESEA Advanced Season 56 - EU",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827720",
+    "name": "ESEA Advanced Season 56 - NA",
+    "nameShortened": "ESEA Advanced Season 56 - NA",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827797",
+    "name": "European Pro league Series 4",
+    "nameShortened": "European Pro league Series 4",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827798",
+    "name": "CCT Season 3 Europe Series 13",
+    "nameShortened": "CCT Season 3 Europe Series 13",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827799",
+    "name": "CCT Season 3 South America Series 7",
+    "nameShortened": "CCT Season 3 SA Series 7",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827800",
+    "name": "BLAST Bounty Winter 2026: Closed Qualifier",
+    "nameShortened": "BLAST Bounty Winter 2026: CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827801",
+    "name": "BLAST Bounty Winter 2026",
+    "nameShortened": "BLAST Bounty Winter 2026",
+    "venueType": "LAN"
+  },
+  {
+    "id": "827819",
+    "name": "United21 Season 43",
+    "nameShortened": "United21 Season 43",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827906",
+    "name": "A1 Gaming League Season 11",
+    "nameShortened": "A1 Gaming League Season 11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827938",
+    "name": "CCT Season 3 Europe Series 14",
+    "nameShortened": "CCT Season 3 Europe Series 14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827939",
+    "name": "Deildarkeppni RÍSÍ: Vor 2026 – Ljósleiðaradeildin",
+    "nameShortened": "Ljósleiðaradeildin 2026",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "827965",
+    "name": "IEM Brazil 2026 Global Qualifier",
+    "nameShortened": "IEM Brazil 2026 GQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "827966",
+    "name": "IEM Brazil 2026 Americas Qualifier",
+    "nameShortened": "IEM Brazil 2026 CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828250",
+    "name": "CCT Season 3 Europe Series 15",
+    "nameShortened": "CCT Season 3 Europe Series 15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828251",
+    "name": "CCT Season 3 South America Series 8",
+    "nameShortened": "CCT Season 3 SA Series 8",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828252",
+    "name": "CCT Season 3 North America Series 3",
+    "nameShortened": "CCT Season 3 NA Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828253",
+    "name": "IEM Krakow 2026",
+    "nameShortened": "IEM Krakow 2026",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828254",
+    "name": "United21 x Esplay Challenge #1",
+    "nameShortened": "United21 x Esplay Challenge #1",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828255",
+    "name": "DFRAG Open Series - Series 3",
+    "nameShortened": "DFRAG Open Series - Series 3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828259",
+    "name": "Liga Gamers Club Série A 2026 January (Playoffs Only)",
+    "nameShortened": "Liga Gamers Club Série A 2026",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828260",
+    "name": "Rushzone CS2 February 2026",
+    "nameShortened": "Rushzone CS2 February 2026",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828262",
+    "name": "United21 Season 44",
+    "nameShortened": "United21 Season 44",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828264",
+    "name": "BLAST Open Spring 2026: NA Closed Qualifier",
+    "nameShortened": "BLAST Open Spring 2026: NA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828265",
+    "name": "BLAST Open Spring 2026: SA Closed Qualifier",
+    "nameShortened": "BLAST Open Spring 2026: SA CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828266",
+    "name": "BLAST Open Spring 2026: Asia Closed Qualifier",
+    "nameShortened": "BLAST Open Spring26: Asia CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828267",
+    "name": "BLAST Open Spring 2026: Europe Closed Qualifier",
+    "nameShortened": "BLAST Open Spring 2026: EU CQ",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828281",
+    "name": "CCT Season 3 Europe Series 16",
+    "nameShortened": "CCT Season 3 EU S16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828383",
+    "name": "European Pro league Series 5",
+    "nameShortened": "European Pro league Series 5",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828802",
+    "name": "CCT Season 2 Dota 2 South America Series 3",
+    "nameShortened": "CCT Season 2 Dota 2 SA S3",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829058",
+    "name": "Yuqilin Pinnacle of Battle Season 3 (Group Stage)",
+    "nameShortened": "(Group Stage)",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829034",
+      "name": "Yuqilin Pinnacle of Battle Season 3",
+      "nameShortened": "Yuqilin Pinnacle of Battle S3",
+      "startDate": "2026-03-30",
+      "endDate": "2026-04-05"
+    }
+  },
+  {
+    "id": "829059",
+    "name": "Yuqilin Pinnacle of Battle Season 3 (Playoffs)",
+    "nameShortened": "(Playoffs)",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829034",
+      "name": "Yuqilin Pinnacle of Battle Season 3",
+      "nameShortened": "Yuqilin Pinnacle of Battle S3",
+      "startDate": "2026-03-30",
+      "endDate": "2026-04-05"
+    }
+  },
+  {
+    "id": "829063",
+    "name": "Test EWC (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "828750",
+      "name": "Test EWC",
+      "nameShortened": "Test EWC",
+      "startDate": "2026-02-11",
+      "endDate": "2026-05-01"
+    }
+  },
+  {
+    "id": "829064",
+    "name": "Test EWC (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "828750",
+      "name": "Test EWC",
+      "nameShortened": "Test EWC",
+      "startDate": "2026-02-11",
+      "endDate": "2026-05-01"
+    }
+  },
+  {
+    "id": "829065",
+    "name": "Test EWC (Tiebreakers)",
+    "nameShortened": "Tiebreakers",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "828750",
+      "name": "Test EWC",
+      "nameShortened": "Test EWC",
+      "startDate": "2026-02-11",
+      "endDate": "2026-05-01"
+    }
+  },
+  {
+    "id": "829073",
+    "name": "Champion of Champions Tour CS2 Season 3 - North America 4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829069",
+      "name": "Champion of Champions Tour CS2 Season 3 - North America 4",
+      "nameShortened": "CCT S3- NA 4",
+      "startDate": "2026-04-06",
+      "endDate": "2026-04-14"
+    }
+  },
+  {
+    "id": "829074",
+    "name": "Champion of Champions Tour CS2 Season 3 - North America 4 (Main Event)",
+    "nameShortened": "Main Event",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829069",
+      "name": "Champion of Champions Tour CS2 Season 3 - North America 4",
+      "nameShortened": "CCT S3- NA 4",
+      "startDate": "2026-04-06",
+      "endDate": "2026-04-14"
+    }
+  },
+  {
+    "id": "829075",
+    "name": "Rushzone CS2 April 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829068",
+      "name": "Rushzone CS2 April 2026",
+      "nameShortened": "Rushzone CS2 April 2026",
+      "startDate": "2026-04-01",
+      "endDate": "2026-04-30"
+    }
+  },
+  {
+    "id": "829087",
+    "name": "United21 Season 47 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829079",
+      "name": "United21 Season 47",
+      "nameShortened": "United21 Season 47",
+      "startDate": "2026-03-30",
+      "endDate": "2026-04-16"
+    }
+  },
+  {
+    "id": "829088",
+    "name": "United21 Season 47 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829079",
+      "name": "United21 Season 47",
+      "nameShortened": "United21 Season 47",
+      "startDate": "2026-03-30",
+      "endDate": "2026-04-16"
+    }
+  },
+  {
+    "id": "829091",
+    "name": "CCT 2026 Contenders Europe Series 4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829071",
+      "name": "CCT 2026 Contenders Europe Series 4",
+      "nameShortened": "CCT 2026 Contenders EU S4",
+      "startDate": "2026-04-04",
+      "endDate": "2026-04-12"
+    }
+  },
+  {
+    "id": "829099",
+    "name": "CCT 2026 Challengers Europe Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829072",
+      "name": "CCT 2026 Challengers Europe Series 1",
+      "nameShortened": "CCT 2026 Challengers EU S1",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-26"
+    }
+  },
+  {
+    "id": "829141",
+    "name": "ESL Challenger League Season 51 - Cup #3 North America (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829023",
+      "name": "ESL Challenger League Season 51 - Cup #3 North America",
+      "nameShortened": "ESL CL S51 - Cup #3 NA",
+      "startDate": "2026-04-02",
+      "endDate": "2026-04-09"
+    }
+  },
+  {
+    "id": "829143",
+    "name": "CCT 2026 Challengers South America Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829140",
+      "name": "CCT 2026 Challengers South America Series 1",
+      "nameShortened": "CCT 2026 Challengers SA S1",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829179",
+    "name": "ESEA Advanced Season 57 - Europe (Round Robin)",
+    "nameShortened": "Round Robin",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829168",
+      "name": "ESEA Advanced Season 57 - Europe",
+      "nameShortened": "ESEA Advanced S57 EU",
+      "startDate": "2026-04-06",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829180",
+    "name": "ESEA Advanced Season 57 - NA (Round Robin)",
+    "nameShortened": "Round Robin",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829169",
+      "name": "ESEA Advanced Season 57 - NA",
+      "nameShortened": "ESEA Advanced S57 NA",
+      "startDate": "2026-04-06",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829181",
+    "name": "Parken Challenger Championship #4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829170",
+      "name": "Parken Challenger Championship #4",
+      "nameShortened": "Parken Chall Champ #4",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-12"
+    }
+  },
+  {
+    "id": "829182",
+    "name": "Parken Challenger Championship #4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829170",
+      "name": "Parken Challenger Championship #4",
+      "nameShortened": "Parken Chall Champ #4",
+      "startDate": "2026-04-10",
+      "endDate": "2026-04-12"
+    }
+  },
+  {
+    "id": "829241",
+    "name": "IEM Rio 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829191",
+      "name": "IEM Rio 2026",
+      "nameShortened": "IEM Rio 2026",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829248",
+    "name": "DFRAG Open Series - S4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829242",
+      "name": "DFRAG Open Series - S4",
+      "nameShortened": "DFRAG Open Series - S4",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829249",
+    "name": "DFRAG Open Series - S4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829242",
+      "name": "DFRAG Open Series - S4",
+      "nameShortened": "DFRAG Open Series - S4",
+      "startDate": "2026-04-11",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829250",
+    "name": "IEM Rio 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829191",
+      "name": "IEM Rio 2026",
+      "nameShortened": "IEM Rio 2026",
+      "startDate": "2026-04-13",
+      "endDate": "2026-04-19"
+    }
+  },
+  {
+    "id": "829262",
+    "name": "Parken Challenger Championship #5 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829258",
+      "name": "Parken Challenger Championship #5",
+      "nameShortened": "PCC #5",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-20"
+    }
+  },
+  {
+    "id": "829263",
+    "name": "Parken Challenger Championship #5 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829258",
+      "name": "Parken Challenger Championship #5",
+      "nameShortened": "PCC #5",
+      "startDate": "2026-04-18",
+      "endDate": "2026-04-20"
+    }
+  },
+  {
+    "id": "829271",
+    "name": "European Pro League Regular Season 4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829268",
+      "name": "European Pro League Regular Season 4",
+      "nameShortened": "EPL Regular Season 4",
+      "startDate": "2026-04-17",
+      "endDate": "2026-05-04"
+    }
+  },
+  {
+    "id": "829272",
+    "name": "European Pro League Regular Season 4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829268",
+      "name": "European Pro League Regular Season 4",
+      "nameShortened": "EPL Regular Season 4",
+      "startDate": "2026-04-17",
+      "endDate": "2026-05-04"
+    }
+  },
+  {
+    "id": "829273",
+    "name": "CCT Global Finals 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829270",
+      "name": "CCT Global Finals 2026",
+      "nameShortened": "CCT Global Finals 2026",
+      "startDate": "2026-04-23",
+      "endDate": "2026-04-26"
+    }
+  },
+  {
+    "id": "829274",
+    "name": "United21 Season 48 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829269",
+      "name": "United21 Season 48",
+      "nameShortened": "United21 Season 48",
+      "startDate": "2026-04-19",
+      "endDate": "2026-05-08"
+    }
+  },
+  {
+    "id": "829275",
+    "name": "United21 Season 48 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829269",
+      "name": "United21 Season 48",
+      "nameShortened": "United21 Season 48",
+      "startDate": "2026-04-19",
+      "endDate": "2026-05-08"
+    }
+  },
+  {
+    "id": "829293",
+    "name": "ESL Challenger League Season 51 - Cup #4 South America (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829290",
+      "name": "ESL Challenger League Season 51 - Cup #4 South America",
+      "nameShortened": "ESL CL S51 - Cup #4 SA",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829294",
+    "name": "ESL Challenger League Season 51 - Cup #4 Europe (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829288",
+      "name": "ESL Challenger League Season 51 - Cup #4 Europe",
+      "nameShortened": "ESL CL S51 - Cup #4 EU",
+      "startDate": "2026-04-22",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829295",
+    "name": "ESL Challenger League Season 51 - Cup #4 North America (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829289",
+      "name": "ESL Challenger League Season 51 - Cup #4 North America",
+      "nameShortened": "ESL CL S51 - Cup #4 NA",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829299",
+    "name": "ESL Challenger League Season 51 - Cup #4 Oceania (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829291",
+      "name": "ESL Challenger League Season 51 - Cup #4 Oceania",
+      "nameShortened": "ESL CL S51 - Cup #4 Oceania",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829300",
+    "name": "ESL Challenger League Season 51 - Cup #4 Asia (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829292",
+      "name": "ESL Challenger League Season 51 - Cup #4 Asia",
+      "nameShortened": "ESL CL S51 - Cup #4 Asia",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829332",
+    "name": "Thunderpick World Championship 2026 North America Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829311",
+      "name": "Thunderpick World Championship 2026 North America Series 1",
+      "nameShortened": "Thunderpick WC 2026 NA S1",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829333",
+    "name": "Thunderpick World Championship 2026 North America Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829311",
+      "name": "Thunderpick World Championship 2026 North America Series 1",
+      "nameShortened": "Thunderpick WC 2026 NA S1",
+      "startDate": "2026-04-26",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829374",
+    "name": "CCT 2026 South America Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829370",
+      "name": "CCT 2026 South America Series 1",
+      "nameShortened": "CCT 2026 SA Series 1",
+      "startDate": "2026-04-28",
+      "endDate": "2026-05-10"
+    }
+  },
+  {
+    "id": "829375",
+    "name": "CCT 2026 South America Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829370",
+      "name": "CCT 2026 South America Series 1",
+      "nameShortened": "CCT 2026 SA Series 1",
+      "startDate": "2026-04-28",
+      "endDate": "2026-05-10"
+    }
+  },
+  {
+    "id": "829377",
+    "name": "CCT 2026 Europe Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829369",
+      "name": "CCT 2026 Europe Series 1",
+      "nameShortened": "CCT 2026 EU Series 1",
+      "startDate": "2026-04-27",
+      "endDate": "2026-05-15"
+    }
+  },
+  {
+    "id": "829378",
+    "name": "CCT 2026 Europe Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829369",
+      "name": "CCT 2026 Europe Series 1",
+      "nameShortened": "CCT 2026 EU Series 1",
+      "startDate": "2026-04-27",
+      "endDate": "2026-05-15"
+    }
+  },
+  {
+    "id": "829381",
+    "name": "CCT 2026 Europe Series 1 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "UNKNOWN",
+    "parent": {
+      "id": "829369",
+      "name": "CCT 2026 Europe Series 1",
+      "nameShortened": "CCT 2026 EU Series 1",
+      "startDate": "2026-04-27",
+      "endDate": "2026-05-15"
+    }
+  },
+  {
+    "id": "829391",
+    "name": "Test EWC (Round Robin)",
+    "nameShortened": "Round Robin",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "828750",
+      "name": "Test EWC",
+      "nameShortened": "Test EWC",
+      "startDate": "2026-02-11",
+      "endDate": "2026-05-01"
+    }
+  },
+  {
+    "id": "829393",
+    "name": "Test EWC (Challengers Stage)",
+    "nameShortened": "Challengers Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "828750",
+      "name": "Test EWC",
+      "nameShortened": "Test EWC",
+      "startDate": "2026-02-11",
+      "endDate": "2026-05-01"
+    }
+  },
+  {
+    "id": "829395",
+    "name": "Stórmeistaramótið 2026 (Swiss Stage)",
+    "nameShortened": "Swiss Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829387",
+      "name": "Stórmeistaramótið 2026",
+      "nameShortened": "Stórmeistaramótið 2026",
+      "startDate": "2026-04-23",
+      "endDate": "2026-05-23"
+    }
+  },
+  {
+    "id": "829396",
+    "name": "Stórmeistaramótið 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829387",
+      "name": "Stórmeistaramótið 2026",
+      "nameShortened": "Stórmeistaramótið 2026",
+      "startDate": "2026-04-23",
+      "endDate": "2026-05-23"
+    }
+  },
+  {
+    "id": "829397",
+    "name": "Asian Champions League 2026 - CS (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829385",
+      "name": "Asian Champions League 2026 - CS",
+      "nameShortened": "AC League 2026",
+      "startDate": "2026-04-30",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829398",
+    "name": "Asian Champions League 2026 - CS (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829385",
+      "name": "Asian Champions League 2026 - CS",
+      "nameShortened": "AC League 2026",
+      "startDate": "2026-04-30",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829407",
+    "name": "BLAST Rivals Spring 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829394",
+      "name": "BLAST Rivals Spring 2026",
+      "nameShortened": "BLAST Rivals Spring 2026",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829408",
+    "name": "BLAST Rivals Spring 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829394",
+      "name": "BLAST Rivals Spring 2026",
+      "nameShortened": "BLAST Rivals Spring 2026",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-03"
+    }
+  },
+  {
+    "id": "829409",
+    "name": "Liga Gamers Club Série A 2026 April (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829403",
+      "name": "Liga Gamers Club Série A 2026 April",
+      "nameShortened": "LGC Série A 2026 April",
+      "startDate": "2026-05-04",
+      "endDate": "2026-05-07"
+    }
+  },
+  {
+    "id": "829410",
+    "name": "CCT 2026 Challengers Europe Series 2 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829402",
+      "name": "CCT 2026 Challengers Europe Series 2",
+      "nameShortened": "CCT 2026 Challengers EU S2",
+      "startDate": "2026-05-02",
+      "endDate": "2026-05-10"
+    }
+  },
+  {
+    "id": "829452",
+    "name": "CCT 2026 Contenders Europe Series 5 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829449",
+      "name": "CCT 2026 Contenders Europe Series 5",
+      "nameShortened": "CCT 2026 Contenders EU S5",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829455",
+    "name": "European Pro League Regular Season 5 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829450",
+      "name": "European Pro League Regular Season 5",
+      "nameShortened": "EPL Regular Season 5",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-25"
+    }
+  },
+  {
+    "id": "829459",
+    "name": "European Pro League Regular Season 5 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829450",
+      "name": "European Pro League Regular Season 5",
+      "nameShortened": "EPL Regular Season 5",
+      "startDate": "2026-05-05",
+      "endDate": "2026-05-25"
+    }
+  },
+  {
+    "id": "829460",
+    "name": "United21 Season 49 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829458",
+      "name": "United21 Season 49",
+      "nameShortened": "United21 Season 49",
+      "startDate": "2026-05-10",
+      "endDate": "2026-05-27"
+    }
+  },
+  {
+    "id": "829461",
+    "name": "United21 Season 49 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829458",
+      "name": "United21 Season 49",
+      "nameShortened": "United21 Season 49",
+      "startDate": "2026-05-10",
+      "endDate": "2026-05-27"
+    }
+  },
+  {
+    "id": "829462",
+    "name": "Parken Challenger Championship #6 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829457",
+      "name": "Parken Challenger Championship #6",
+      "nameShortened": "PCC #6",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-11"
+    }
+  },
+  {
+    "id": "829463",
+    "name": "Parken Challenger Championship #6 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829457",
+      "name": "Parken Challenger Championship #6",
+      "nameShortened": "PCC #6",
+      "startDate": "2026-05-09",
+      "endDate": "2026-05-11"
+    }
+  },
+  {
+    "id": "829464",
+    "name": "IEM Atlanta 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829401",
+      "name": "IEM Atlanta 2026",
+      "nameShortened": "IEM Atlanta 2026",
+      "startDate": "2026-05-11",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829465",
+    "name": "IEM Atlanta 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829401",
+      "name": "IEM Atlanta 2026",
+      "nameShortened": "IEM Atlanta 2026",
+      "startDate": "2026-05-11",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829491",
+    "name": "CCT 2026 Europe Series 2 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829490",
+      "name": "CCT 2026 Europe Series 2",
+      "nameShortened": "CCT 2026 EU S2",
+      "startDate": "2026-05-12",
+      "endDate": "2026-05-30"
+    }
+  },
+  {
+    "id": "829492",
+    "name": "CCT 2026 Europe Series 2 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829490",
+      "name": "CCT 2026 Europe Series 2",
+      "nameShortened": "CCT 2026 EU S2",
+      "startDate": "2026-05-12",
+      "endDate": "2026-05-30"
+    }
+  },
+  {
+    "id": "829493",
+    "name": "CCT 2026 Europe Series 2 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829490",
+      "name": "CCT 2026 Europe Series 2",
+      "nameShortened": "CCT 2026 EU S2",
+      "startDate": "2026-05-12",
+      "endDate": "2026-05-30"
+    }
+  },
+  {
+    "id": "829500",
+    "name": "CCT 2026 South America Series 2 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829489",
+      "name": "CCT 2026 South America Series 2",
+      "nameShortened": "CCT 2026 SA S2",
+      "startDate": "2026-05-12",
+      "endDate": "2026-05-24"
+    }
+  },
+  {
+    "id": "829501",
+    "name": "CCT 2026 South America Series 2 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829489",
+      "name": "CCT 2026 South America Series 2",
+      "nameShortened": "CCT 2026 SA S2",
+      "startDate": "2026-05-12",
+      "endDate": "2026-05-24"
+    }
+  },
+  {
+    "id": "829502",
+    "name": "Parken Challenger Championship #7 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829488",
+      "name": "Parken Challenger Championship #7",
+      "nameShortened": "PCC #7",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829503",
+    "name": "Parken Challenger Championship #7 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829488",
+      "name": "Parken Challenger Championship #7",
+      "nameShortened": "PCC #7",
+      "startDate": "2026-05-15",
+      "endDate": "2026-05-17"
+    }
+  },
+  {
+    "id": "829524",
+    "name": "CCT 2026 Challengers Europe Series 3 (Main Event)",
+    "nameShortened": "Main Event",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829513",
+      "name": "CCT 2026 Challengers Europe Series 3",
+      "nameShortened": "CCT 2026 Challengers EU S3",
+      "startDate": "2026-05-23",
+      "endDate": "2026-05-31"
+    }
+  },
+  {
+    "id": "829525",
+    "name": "CCT 2026 Europe Series 4 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829514",
+      "name": "CCT 2026 Europe Series 4",
+      "nameShortened": "CCT 2026 Europe Series 4",
+      "startDate": "2026-06-03",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829526",
+    "name": "CCT 2026 Europe Series 4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829514",
+      "name": "CCT 2026 Europe Series 4",
+      "nameShortened": "CCT 2026 Europe Series 4",
+      "startDate": "2026-06-03",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829527",
+    "name": "CCT 2026 Europe Series 4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829514",
+      "name": "CCT 2026 Europe Series 4",
+      "nameShortened": "CCT 2026 Europe Series 4",
+      "startDate": "2026-06-03",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829528",
+    "name": "Thunderpick World Championship 2026 Europe Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829511",
+      "name": "Thunderpick World Championship 2026 Europe Series 1",
+      "nameShortened": "TWC 2026 Europe Series 1",
+      "startDate": "2026-05-23",
+      "endDate": "2026-05-31"
+    }
+  },
+  {
+    "id": "829529",
+    "name": "Thunderpick World Championship 2026 Europe Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829511",
+      "name": "Thunderpick World Championship 2026 Europe Series 1",
+      "nameShortened": "TWC 2026 Europe Series 1",
+      "startDate": "2026-05-23",
+      "endDate": "2026-05-31"
+    }
+  },
+  {
+    "id": "829530",
+    "name": "CCT 2026 Europe Series 3 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829512",
+      "name": "CCT 2026 Europe Series 3",
+      "nameShortened": "CCT 2026 EU Series 3",
+      "startDate": "2026-05-19",
+      "endDate": "2026-06-06"
+    }
+  },
+  {
+    "id": "829531",
+    "name": "CCT 2026 Europe Series 3 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829512",
+      "name": "CCT 2026 Europe Series 3",
+      "nameShortened": "CCT 2026 EU Series 3",
+      "startDate": "2026-05-19",
+      "endDate": "2026-06-06"
+    }
+  },
+  {
+    "id": "829532",
+    "name": "CCT 2026 Europe Series 3 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829512",
+      "name": "CCT 2026 Europe Series 3",
+      "nameShortened": "CCT 2026 EU Series 3",
+      "startDate": "2026-05-19",
+      "endDate": "2026-06-06"
+    }
+  },
+  {
+    "id": "829533",
+    "name": "CCT 2026 Challengers Europe Series 4 (Main Event)",
+    "nameShortened": "Main Event",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829518",
+      "name": "CCT 2026 Challengers Europe Series 4",
+      "nameShortened": "CCT 2026 Challengers EU S4",
+      "startDate": "2026-06-27",
+      "endDate": "2026-07-05"
+    }
+  },
+  {
+    "id": "829534",
+    "name": "TWC 2026 South America Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829517",
+      "name": "TWC 2026 South America Series 1",
+      "nameShortened": "TWC 2026 SA Series 1",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28"
+    }
+  },
+  {
+    "id": "829535",
+    "name": "TWC 2026 South America Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829517",
+      "name": "TWC 2026 South America Series 1",
+      "nameShortened": "TWC 2026 SA Series 1",
+      "startDate": "2026-06-24",
+      "endDate": "2026-06-28"
+    }
+  },
+  {
+    "id": "829536",
+    "name": "CCT 2026 South America Series 3 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829515",
+      "name": "CCT 2026 South America Series 3",
+      "nameShortened": "CCT 2026 SA Series 3",
+      "startDate": "2026-06-27",
+      "endDate": "2026-07-09"
+    }
+  },
+  {
+    "id": "829537",
+    "name": "CCT 2026 South America Series 3 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829515",
+      "name": "CCT 2026 South America Series 3",
+      "nameShortened": "CCT 2026 SA Series 3",
+      "startDate": "2026-06-27",
+      "endDate": "2026-07-09"
+    }
+  },
+  {
+    "id": "829551",
+    "name": "ESL Challenger League Season 51 - Europe Finals (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829547",
+      "name": "ESL Challenger League Season 51 - Europe Finals",
+      "nameShortened": "ESL CL S51 - EU Finals",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-28"
+    }
+  },
+  {
+    "id": "829552",
+    "name": "European Pro League Series 7 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829546",
+      "name": "European Pro League Series 7",
+      "nameShortened": "European Pro League Series 7",
+      "startDate": "2026-05-23",
+      "endDate": "2026-06-22"
+    }
+  },
+  {
+    "id": "829553",
+    "name": "European Pro League Series 7 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829546",
+      "name": "European Pro League Series 7",
+      "nameShortened": "European Pro League Series 7",
+      "startDate": "2026-05-23",
+      "endDate": "2026-06-22"
+    }
+  },
+  {
+    "id": "829554",
+    "name": "European Pro League Series 7 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829546",
+      "name": "European Pro League Series 7",
+      "nameShortened": "European Pro League Series 7",
+      "startDate": "2026-05-23",
+      "endDate": "2026-06-22"
+    }
+  },
+  {
+    "id": "829555",
+    "name": "ESL Challenger League Season 51 - Asia Finals (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829550",
+      "name": "ESL Challenger League Season 51 - Asia Finals",
+      "nameShortened": "ESL CL S51 - Asia Finals",
+      "startDate": "2026-05-25",
+      "endDate": "2026-05-28"
+    }
+  },
+  {
+    "id": "829556",
+    "name": "ESL Challenger League Season 51 - South America Finals (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829549",
+      "name": "ESL Challenger League Season 51 - South America Finals",
+      "nameShortened": "ESL CL S51 - SA Finals",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-28"
+    }
+  },
+  {
+    "id": "829557",
+    "name": "ESL Challenger League Season 51 - North America Finals (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829548",
+      "name": "ESL Challenger League Season 51 - North America Finals",
+      "nameShortened": "ESL CL S51 - NA Finals",
+      "startDate": "2026-05-26",
+      "endDate": "2026-05-28"
+    }
+  },
+  {
+    "id": "829559",
+    "name": "Parken Challenger Championship #8 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829516",
+      "name": "Parken Challenger Championship #8",
+      "nameShortened": "PCC #8",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-24"
+    }
+  },
+  {
+    "id": "829560",
+    "name": "Parken Challenger Championship #8 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829516",
+      "name": "Parken Challenger Championship #8",
+      "nameShortened": "PCC #8",
+      "startDate": "2026-05-22",
+      "endDate": "2026-05-24"
+    }
+  },
+  {
+    "id": "829582",
+    "name": "IEM Cologne 2026 (Swiss Stage)",
+    "nameShortened": "Swiss Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829571",
+      "name": "IEM Cologne 2026",
+      "nameShortened": "IEM Cologne 2026",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829583",
+    "name": "IEM Cologne 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "829571",
+      "name": "IEM Cologne 2026",
+      "nameShortened": "IEM Cologne 2026",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829611",
+    "name": "United21 Season 50 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829608",
+      "name": "United21 Season 50",
+      "nameShortened": "United21 Season 50",
+      "startDate": "2026-05-28",
+      "endDate": "2026-06-14"
+    }
+  },
+  {
+    "id": "829612",
+    "name": "United21 Season 50 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829608",
+      "name": "United21 Season 50",
+      "nameShortened": "United21 Season 50",
+      "startDate": "2026-05-28",
+      "endDate": "2026-06-14"
+    }
+  },
+  {
+    "id": "829620",
+    "name": "Thunderpick World Championship 2026 South America Series 2 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829615",
+      "name": "Thunderpick World Championship 2026 South America Series 2",
+      "nameShortened": "Thunderpick Worlds 2026 SA 2",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-12"
+    }
+  },
+  {
+    "id": "829621",
+    "name": "Thunderpick World Championship 2026 South America Series 2 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829615",
+      "name": "Thunderpick World Championship 2026 South America Series 2",
+      "nameShortened": "Thunderpick Worlds 2026 SA 2",
+      "startDate": "2026-07-08",
+      "endDate": "2026-07-12"
+    }
+  },
+  {
+    "id": "829622",
+    "name": "Gamers Club Serie A: May 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829614",
+      "name": "Gamers Club Serie A: May 2026",
+      "nameShortened": "Gamers Club Serie A: May 2026",
+      "startDate": "2026-06-02",
+      "endDate": "2026-06-05"
+    }
+  },
+  {
+    "id": "829623",
+    "name": "CCT 2026 Contenders Europe Series 7 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829618",
+      "name": "CCT 2026 Contenders Europe Series 7",
+      "nameShortened": "CCT 2026 Contenders Eu 7",
+      "startDate": "2026-07-25",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "829624",
+    "name": "CCT 2026 Contenders Europe Series 6 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829617",
+      "name": "CCT 2026 Contenders Europe Series 6",
+      "nameShortened": "CCT 2026 Contenders Eu 6",
+      "startDate": "2026-07-04",
+      "endDate": "2026-07-12"
+    }
+  },
+  {
+    "id": "829625",
+    "name": "Thunderpick World Championship 2026 Europe Series 2 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829616",
+      "name": "Thunderpick World Championship 2026 Europe Series 2",
+      "nameShortened": "Thunderpick Worlds 2026 Eu 2",
+      "startDate": "2026-07-25",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "829626",
+    "name": "Thunderpick World Championship 2026 Europe Series 2 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829616",
+      "name": "Thunderpick World Championship 2026 Europe Series 2",
+      "nameShortened": "Thunderpick Worlds 2026 Eu 2",
+      "startDate": "2026-07-25",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "829661",
+    "name": "ESEA Advanced Season 57 - NA (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829169",
+      "name": "ESEA Advanced Season 57 - NA",
+      "nameShortened": "ESEA Advanced S57 NA",
+      "startDate": "2026-04-06",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829662",
+    "name": "ESEA Advanced Season 57 - Europe (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829168",
+      "name": "ESEA Advanced Season 57 - Europe",
+      "nameShortened": "ESEA Advanced S57 EU",
+      "startDate": "2026-04-06",
+      "endDate": "2026-06-21"
+    }
+  },
+  {
+    "id": "829691",
+    "name": "DFRAG Open Series #5 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829687",
+      "name": "DFRAG Open Series #5",
+      "nameShortened": "DFRAG Open Series #5",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-18"
+    }
+  },
+  {
+    "id": "829692",
+    "name": "DFRAG Open Series #5 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829687",
+      "name": "DFRAG Open Series #5",
+      "nameShortened": "DFRAG Open Series #5",
+      "startDate": "2026-06-08",
+      "endDate": "2026-06-18"
+    }
+  },
+  {
+    "id": "829710",
+    "name": "European Pro League Series 8 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829698",
+      "name": "European Pro League Series 8",
+      "nameShortened": "European Pro League S8",
+      "startDate": "2026-06-24",
+      "endDate": "2026-07-24"
+    }
+  },
+  {
+    "id": "829711",
+    "name": "European Pro League Series 8 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829698",
+      "name": "European Pro League Series 8",
+      "nameShortened": "European Pro League S8",
+      "startDate": "2026-06-24",
+      "endDate": "2026-07-24"
+    }
+  },
+  {
+    "id": "829712",
+    "name": "European Pro League Series 8 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829698",
+      "name": "European Pro League Series 8",
+      "nameShortened": "European Pro League S8",
+      "startDate": "2026-06-24",
+      "endDate": "2026-07-24"
+    }
+  },
+  {
+    "id": "829713",
+    "name": "United21 Season 51 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829697",
+      "name": "United21 Season 51",
+      "nameShortened": "United21 Season 51",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-02"
+    }
+  },
+  {
+    "id": "829714",
+    "name": "United21 Season 51 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829697",
+      "name": "United21 Season 51",
+      "nameShortened": "United21 Season 51",
+      "startDate": "2026-06-15",
+      "endDate": "2026-07-02"
+    }
+  },
+  {
+    "id": "829758",
+    "name": "ESEA Advanced Season 58 - NA (Round Robin)",
+    "nameShortened": "Round Robin",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829731",
+      "name": "ESEA Advanced Season 58 - NA",
+      "nameShortened": "ESEA Advanced Season 58 - NA",
+      "startDate": "2026-07-13",
+      "endDate": "2026-09-20"
+    }
+  },
+  {
+    "id": "829759",
+    "name": "BLAST Open Fall 2026: SA Closed Qualifier (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829757",
+      "name": "BLAST Open Fall 2026: SA Closed Qualifier",
+      "nameShortened": "BLAST Open Fall 2026: SA CQ",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-11"
+    }
+  },
+  {
+    "id": "829760",
+    "name": "BLAST Open Fall 2026: Europe Closed Qualifier (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829756",
+      "name": "BLAST Open Fall 2026: Europe Closed Qualifier",
+      "nameShortened": "BLAST Open Fall 2026: EU CQ",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-11"
+    }
+  },
+  {
+    "id": "829761",
+    "name": "ESEA Advanced Season 58 - Europe (Round Robin)",
+    "nameShortened": "Round Robin",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829730",
+      "name": "ESEA Advanced Season 58 - Europe",
+      "nameShortened": "ESEA Advanced Season 58 - EU",
+      "startDate": "2026-07-13",
+      "endDate": "2026-09-20"
+    }
+  },
+  {
+    "id": "829777",
+    "name": "BLAST Open Fall 2026: NA Closed Qualifier (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829765",
+      "name": "BLAST Open Fall 2026: NA Closed Qualifier",
+      "nameShortened": "BLAST Open Fall 2026: NA CQ",
+      "startDate": "2026-07-09",
+      "endDate": "2026-07-11"
+    }
+  },
+  {
+    "id": "829778",
+    "name": "BLAST Open Fall 2026: Asia Closed Qualifier (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829764",
+      "name": "BLAST Open Fall 2026: Asia Closed Qualifier",
+      "nameShortened": "BLAST Open Fall 2026: Asia CQ",
+      "startDate": "2026-07-10",
+      "endDate": "2026-07-12"
+    }
+  },
+  {
+    "id": "829818",
+    "name": "United21 Season 52 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829816",
+      "name": "United21 Season 52",
+      "nameShortened": "United21 Season 52",
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-19"
+    }
+  },
+  {
+    "id": "829819",
+    "name": "United21 Season 52 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829816",
+      "name": "United21 Season 52",
+      "nameShortened": "United21 Season 52",
+      "startDate": "2026-07-03",
+      "endDate": "2026-07-19"
+    }
+  },
+  {
+    "id": "829847",
+    "name": "CCT 2026 South America Series 4 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829845",
+      "name": "CCT 2026 South America Series 4",
+      "nameShortened": "CCT 2026 SA Se4",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-26"
+    }
+  },
+  {
+    "id": "829848",
+    "name": "CCT 2026 South America Series 4 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829845",
+      "name": "CCT 2026 South America Series 4",
+      "nameShortened": "CCT 2026 SA Se4",
+      "startDate": "2026-07-14",
+      "endDate": "2026-07-26"
+    }
+  },
+  {
+    "id": "830129",
+    "name": "CCT 2026 Europe Series 6 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829854",
+      "name": "CCT 2026 Europe Series 6",
+      "nameShortened": "CCT 2026 Europe Series 6",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-08"
+    }
+  },
+  {
+    "id": "830130",
+    "name": "CCT 2026 Europe Series 6 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829854",
+      "name": "CCT 2026 Europe Series 6",
+      "nameShortened": "CCT 2026 Europe Series 6",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-08"
+    }
+  },
+  {
+    "id": "830131",
+    "name": "CCT 2026 Europe Series 6 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829854",
+      "name": "CCT 2026 Europe Series 6",
+      "nameShortened": "CCT 2026 Europe Series 6",
+      "startDate": "2026-07-21",
+      "endDate": "2026-08-08"
+    }
+  },
+  {
+    "id": "830132",
+    "name": "CCT 2026 Europe Series 5 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829853",
+      "name": "CCT 2026 Europe Series 5",
+      "nameShortened": "CCT 2026 Europe Series 5",
+      "startDate": "2026-07-15",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "830133",
+    "name": "CCT 2026 Europe Series 5 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829853",
+      "name": "CCT 2026 Europe Series 5",
+      "nameShortened": "CCT 2026 Europe Series 5",
+      "startDate": "2026-07-15",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "830134",
+    "name": "CCT 2026 Europe Series 5 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829853",
+      "name": "CCT 2026 Europe Series 5",
+      "nameShortened": "CCT 2026 Europe Series 5",
+      "startDate": "2026-07-15",
+      "endDate": "2026-08-02"
+    }
+  },
+  {
+    "id": "830194",
+    "name": "HyperX & Intel Nationals 2026 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "LAN",
+    "parent": {
+      "id": "830193",
+      "name": "HyperX & Intel Nationals 2026",
+      "nameShortened": "HyperX & Intel Nationals 2026",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-19"
+    }
+  },
+  {
+    "id": "830195",
+    "name": "HyperX & Intel Nationals 2026 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "LAN",
+    "parent": {
+      "id": "830193",
+      "name": "HyperX & Intel Nationals 2026",
+      "nameShortened": "HyperX & Intel Nationals 2026",
+      "startDate": "2026-07-17",
+      "endDate": "2026-07-19"
+    }
+  },
+  {
+    "id": "830222",
+    "name": "United21 Series 1 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "830214",
+      "name": "United21 Series 1",
+      "nameShortened": "United21 Series 1",
+      "startDate": "2026-07-28",
+      "endDate": "2026-08-14"
+    }
+  },
+  {
+    "id": "830223",
+    "name": "United21 Series 1 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "830214",
+      "name": "United21 Series 1",
+      "nameShortened": "United21 Series 1",
+      "startDate": "2026-07-28",
+      "endDate": "2026-08-14"
+    }
+  },
+  {
+    "id": "830224",
+    "name": "European Pro League Series 9 (Play-Ins)",
+    "nameShortened": "Play-Ins",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "830213",
+      "name": "European Pro League Series 9",
+      "nameShortened": "EPL Series 9",
+      "startDate": "2026-07-28",
+      "endDate": "2026-08-26"
+    }
+  },
+  {
+    "id": "830225",
+    "name": "European Pro League Series 9 (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "830213",
+      "name": "European Pro League Series 9",
+      "nameShortened": "EPL Series 9",
+      "startDate": "2026-07-28",
+      "endDate": "2026-08-26"
+    }
+  },
+  {
+    "id": "830226",
+    "name": "European Pro League Series 9 (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "830213",
+      "name": "European Pro League Series 9",
+      "nameShortened": "EPL Series 9",
+      "startDate": "2026-07-28",
+      "endDate": "2026-08-26"
+    }
+  },
+  {
+    "id": "830232",
+    "name": "XSE Pro League 2026",
+    "nameShortened": "XSE Pro League",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "830258",
+    "name": "ESL Challenger League Season 52 - Cup #1 Europe (Group Stage)",
+    "nameShortened": "Group Stage",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829793",
+      "name": "ESL Challenger League Season 52 - Cup #1 Europe",
+      "nameShortened": "ESL CL S 52 - Cup #1 Europe",
+      "startDate": "2026-07-12",
+      "endDate": "2026-07-14"
+    }
+  },
+  {
+    "id": "830259",
+    "name": "ESL Challenger League Season 52 - Cup #1 Europe (Playoffs)",
+    "nameShortened": "Playoffs",
+    "venueType": "ONLINE",
+    "parent": {
+      "id": "829793",
+      "name": "ESL Challenger League Season 52 - Cup #1 Europe",
+      "nameShortened": "ESL CL S 52 - Cup #1 Europe",
+      "startDate": "2026-07-12",
+      "endDate": "2026-07-14"
+    }
+  },
+  {
+    "id": "554853",
+    "name": "Intel Extreme Masters China 2024: Chinese Qualifier",
+    "nameShortened": "Intel Extreme Master",
+    "startDate": "2023-11-03",
+    "endDate": "2023-11-04",
+    "venueType": "UNKNOWN"
+  },
+  {
+    "id": "828285",
+    "name": "IEM Atlanta 2026 Americas Qualifier",
+    "nameShortened": "IEM Atlanta 2026 NA Qualifier",
+    "startDate": "2026-02-10",
+    "endDate": "2026-02-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828286",
+    "name": "IEM Atlanta - Europe Qualifier 2026",
+    "nameShortened": "IEM Atlanta EU Qualifier 2026",
+    "startDate": "2026-02-10",
+    "endDate": "2026-02-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828750",
+    "name": "Test EWC",
+    "nameShortened": "Test EWC",
+    "startDate": "2026-02-11",
+    "endDate": "2026-05-01",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "828722",
+    "name": "ESL Challenger League Season 51 - Cup #1 Europe",
+    "nameShortened": "ESL CL S51 - Cup #1 Europe",
+    "startDate": "2026-02-13",
+    "endDate": "2026-02-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828723",
+    "name": "ESL Challenger League Season 51 - Cup #1 South America",
+    "nameShortened": "ESL CL S51 - Cup #1 SA",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828724",
+    "name": "ESL Challenger League Season 51 - Cup #1 Oceania",
+    "nameShortened": "ESL CL S51 - Cup #1 Oceania",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828725",
+    "name": "ESL Challenger League Season 51 - Cup #1 Asia",
+    "nameShortened": "ESL CL S51 - Cup #1 Asia",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828735",
+    "name": "ESL Challenger League Season 51 - Cup #1 North America",
+    "nameShortened": "ESL Chal League 51 - Cup #1 NA",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828757",
+    "name": "CCT Season 3 Oceania Series 4",
+    "nameShortened": "CCT S3 Oceania Series 4",
+    "startDate": "2026-02-17",
+    "endDate": "2026-02-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828736",
+    "name": "United21 Season 45",
+    "nameShortened": "United21 Season 45",
+    "startDate": "2026-02-18",
+    "endDate": "2026-03-07",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828767",
+    "name": "CCT 2026 Contenders Europe Series 1",
+    "nameShortened": "CCT 2026 Contenders EU S1",
+    "startDate": "2026-02-21",
+    "endDate": "2026-03-01",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828768",
+    "name": "CCT Season 3 South America Series 9",
+    "nameShortened": "CCT Season 3 SA Series 9",
+    "startDate": "2026-02-21",
+    "endDate": "2026-03-05",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828773",
+    "name": "Parken Challenger Championship #1",
+    "nameShortened": "Parken Chal Championship #1",
+    "startDate": "2026-02-22",
+    "endDate": "2026-02-24",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828766",
+    "name": "CCT Season 3 Europe Series 17",
+    "nameShortened": "CCT Season 3 Europe Series 17",
+    "startDate": "2026-02-23",
+    "endDate": "2026-03-13",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828769",
+    "name": "Liga Gamers Club Série A 2026 February",
+    "nameShortened": "LGC Série A 2026 February",
+    "startDate": "2026-02-24",
+    "endDate": "2026-02-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828819",
+    "name": "WINLINE Star Series Season 2 - CS2",
+    "nameShortened": "WINLINE Star Series Season 2",
+    "startDate": "2026-02-25",
+    "endDate": "2026-03-08",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828809",
+    "name": "Master League Portugal Season 18",
+    "nameShortened": "MLP Season 18",
+    "startDate": "2026-02-28",
+    "endDate": "2026-03-01",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828791",
+    "name": "ESL Pro League Season 23",
+    "nameShortened": "ESL Pro League Season 23",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-15",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "828792",
+    "name": "Rushzone CS2 March 2026",
+    "nameShortened": "Rushzone CS2 March 2026",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-31",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828811",
+    "name": "CCT Season 3 Europe Series 18",
+    "nameShortened": "CCT S3 EU SE18",
+    "startDate": "2026-03-02",
+    "endDate": "2026-03-20",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828889",
+    "name": "CCT 2026 Contenders Europe Series 2",
+    "nameShortened": "CCT 2026 Contenders EU SE2",
+    "startDate": "2026-03-07",
+    "endDate": "2026-03-15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828877",
+    "name": "Parken Challenger Championship #2",
+    "nameShortened": "PCC #2",
+    "startDate": "2026-03-08",
+    "endDate": "2026-03-10",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828914",
+    "name": "United21 Season 46",
+    "nameShortened": "United21 Season 46",
+    "startDate": "2026-03-10",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828837",
+    "name": "DFRAG Wildcard LAN Season 1",
+    "nameShortened": "DFRAG Wildcard LAN Season 1",
+    "startDate": "2026-03-12",
+    "endDate": "2026-03-14",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828916",
+    "name": "CCT Season 3 South America Series 10",
+    "nameShortened": "CCT S3 SA Series 10",
+    "startDate": "2026-03-13",
+    "endDate": "2026-03-25",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828895",
+    "name": "ESL Challenger League Season 51 - Cup #2 Europe",
+    "nameShortened": "ESL CL S51 - Cup #2 Europe",
+    "startDate": "2026-03-16",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828917",
+    "name": "European Pro league Series 6",
+    "nameShortened": "EPL Series 6",
+    "startDate": "2026-03-16",
+    "endDate": "2026-04-16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828924",
+    "name": "CCT Season 3 Europe Series 19",
+    "nameShortened": "CCT S3 EU Series 19",
+    "startDate": "2026-03-16",
+    "endDate": "2026-04-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828925",
+    "name": "BLAST Open Spring 2026",
+    "nameShortened": "BLAST Open Spring 2026",
+    "startDate": "2026-03-18",
+    "endDate": "2026-03-29",
+    "venueType": "LAN"
+  },
+  {
+    "id": "828896",
+    "name": "ESL Challenger League Season 51 - Cup #2 North America",
+    "nameShortened": "ESL CL S51 - Cup #2 NA",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828897",
+    "name": "ESL Challenger League Season 51 - Cup #2 South America",
+    "nameShortened": "ESL CL S51 - Cup #2 SA",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828898",
+    "name": "ESL Challenger League Season 51 - Cup #2 Oceania",
+    "nameShortened": "ESL CL S51 - Cup #2 Oceania",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828899",
+    "name": "ESL Challenger League Season 51 - Cup #2 Asia",
+    "nameShortened": "ESL CL S51 - Cup #2 Asia",
+    "startDate": "2026-03-20",
+    "endDate": "2026-03-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829036",
+    "name": "CCT 2026 Contenders Europe Series 3",
+    "nameShortened": "CCT 2026 Contenders EU SE3",
+    "startDate": "2026-03-21",
+    "endDate": "2026-03-29",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828923",
+    "name": "CCT Season 3 Europe Series 20",
+    "nameShortened": "CCT S3 EU Series 20",
+    "startDate": "2026-03-23",
+    "endDate": "2026-04-10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829022",
+    "name": "ESL Challenger League Season 51 - Cup #3 Europe",
+    "nameShortened": "ESL CL S51 - Cup #3 EU",
+    "startDate": "2026-03-29",
+    "endDate": "2026-04-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829034",
+    "name": "Yuqilin Pinnacle of Battle Season 3",
+    "nameShortened": "Yuqilin Pinnacle of Battle S3",
+    "startDate": "2026-03-30",
+    "endDate": "2026-04-05",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829079",
+    "name": "United21 Season 47",
+    "nameShortened": "United21 Season 47",
+    "startDate": "2026-03-30",
+    "endDate": "2026-04-16",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "828951",
+    "name": "Liga Gamers Club Série A 2026 March",
+    "nameShortened": "LGC Série A 2026 March",
+    "startDate": "2026-03-31",
+    "endDate": "2026-04-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829020",
+    "name": "Parken Challenger Championship #3",
+    "nameShortened": "PCC #3",
+    "startDate": "2026-03-31",
+    "endDate": "2026-04-02",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829068",
+    "name": "Rushzone CS2 April 2026",
+    "nameShortened": "Rushzone CS2 April 2026",
+    "startDate": "2026-04-01",
+    "endDate": "2026-04-30",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829023",
+    "name": "ESL Challenger League Season 51 - Cup #3 North America",
+    "nameShortened": "ESL CL S51 - Cup #3 NA",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829024",
+    "name": "ESL Challenger League Season 51 - Cup #3 South America",
+    "nameShortened": "ESL CL S51 - Cup #3 SA",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829025",
+    "name": "ESL Challenger League Season 51 - Cup #3 Oceania",
+    "nameShortened": "ESL CL S51 - Cup #3 Oceania",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829026",
+    "name": "ESL Challenger League Season 51 - Cup #3 Asia",
+    "nameShortened": "ESL CL S51 - Cup #3 Asia",
+    "startDate": "2026-04-02",
+    "endDate": "2026-04-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829071",
+    "name": "CCT 2026 Contenders Europe Series 4",
+    "nameShortened": "CCT 2026 Contenders EU S4",
+    "startDate": "2026-04-04",
+    "endDate": "2026-04-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829069",
+    "name": "Champion of Champions Tour CS2 Season 3 - North America 4",
+    "nameShortened": "CCT S3- NA 4",
+    "startDate": "2026-04-06",
+    "endDate": "2026-04-14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829168",
+    "name": "ESEA Advanced Season 57 - Europe",
+    "nameShortened": "ESEA Advanced S57 EU",
+    "startDate": "2026-04-06",
+    "endDate": "2026-06-21",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829169",
+    "name": "ESEA Advanced Season 57 - NA",
+    "nameShortened": "ESEA Advanced S57 NA",
+    "startDate": "2026-04-06",
+    "endDate": "2026-06-21",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829170",
+    "name": "Parken Challenger Championship #4",
+    "nameShortened": "Parken Chall Champ #4",
+    "startDate": "2026-04-10",
+    "endDate": "2026-04-12",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829140",
+    "name": "CCT 2026 Challengers South America Series 1",
+    "nameShortened": "CCT 2026 Challengers SA S1",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-19",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829242",
+    "name": "DFRAG Open Series - S4",
+    "nameShortened": "DFRAG Open Series - S4",
+    "startDate": "2026-04-11",
+    "endDate": "2026-04-19",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829191",
+    "name": "IEM Rio 2026",
+    "nameShortened": "IEM Rio 2026",
+    "startDate": "2026-04-13",
+    "endDate": "2026-04-19",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829268",
+    "name": "European Pro League Regular Season 4",
+    "nameShortened": "EPL Regular Season 4",
+    "startDate": "2026-04-17",
+    "endDate": "2026-05-04",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829072",
+    "name": "CCT 2026 Challengers Europe Series 1",
+    "nameShortened": "CCT 2026 Challengers EU S1",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829258",
+    "name": "Parken Challenger Championship #5",
+    "nameShortened": "PCC #5",
+    "startDate": "2026-04-18",
+    "endDate": "2026-04-20",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829269",
+    "name": "United21 Season 48",
+    "nameShortened": "United21 Season 48",
+    "startDate": "2026-04-19",
+    "endDate": "2026-05-08",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829288",
+    "name": "ESL Challenger League Season 51 - Cup #4 Europe",
+    "nameShortened": "ESL CL S51 - Cup #4 EU",
+    "startDate": "2026-04-22",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829270",
+    "name": "CCT Global Finals 2026",
+    "nameShortened": "CCT Global Finals 2026",
+    "startDate": "2026-04-23",
+    "endDate": "2026-04-26",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829387",
+    "name": "Stórmeistaramótið 2026",
+    "nameShortened": "Stórmeistaramótið 2026",
+    "startDate": "2026-04-23",
+    "endDate": "2026-05-23",
+    "venueType": "HYBRID"
+  },
+  {
+    "id": "829289",
+    "name": "ESL Challenger League Season 51 - Cup #4 North America",
+    "nameShortened": "ESL CL S51 - Cup #4 NA",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829290",
+    "name": "ESL Challenger League Season 51 - Cup #4 South America",
+    "nameShortened": "ESL CL S51 - Cup #4 SA",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829291",
+    "name": "ESL Challenger League Season 51 - Cup #4 Oceania",
+    "nameShortened": "ESL CL S51 - Cup #4 Oceania",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829292",
+    "name": "ESL Challenger League Season 51 - Cup #4 Asia",
+    "nameShortened": "ESL CL S51 - Cup #4 Asia",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829311",
+    "name": "Thunderpick World Championship 2026 North America Series 1",
+    "nameShortened": "Thunderpick WC 2026 NA S1",
+    "startDate": "2026-04-26",
+    "endDate": "2026-05-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829369",
+    "name": "CCT 2026 Europe Series 1",
+    "nameShortened": "CCT 2026 EU Series 1",
+    "startDate": "2026-04-27",
+    "endDate": "2026-05-15",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829370",
+    "name": "CCT 2026 South America Series 1",
+    "nameShortened": "CCT 2026 SA Series 1",
+    "startDate": "2026-04-28",
+    "endDate": "2026-05-10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829394",
+    "name": "BLAST Rivals Spring 2026",
+    "nameShortened": "BLAST Rivals Spring 2026",
+    "startDate": "2026-04-29",
+    "endDate": "2026-05-03",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829385",
+    "name": "Asian Champions League 2026 - CS",
+    "nameShortened": "AC League 2026",
+    "startDate": "2026-04-30",
+    "endDate": "2026-05-17",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829456",
+    "name": "Rushzone CS2 May 2026",
+    "nameShortened": "Rushzone CS2 May 2026",
+    "startDate": "2026-05-01",
+    "endDate": "2026-05-31",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829402",
+    "name": "CCT 2026 Challengers Europe Series 2",
+    "nameShortened": "CCT 2026 Challengers EU S2",
+    "startDate": "2026-05-02",
+    "endDate": "2026-05-10",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829403",
+    "name": "Liga Gamers Club Série A 2026 April",
+    "nameShortened": "LGC Série A 2026 April",
+    "startDate": "2026-05-04",
+    "endDate": "2026-05-07",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829450",
+    "name": "European Pro League Regular Season 5",
+    "nameShortened": "EPL Regular Season 5",
+    "startDate": "2026-05-05",
+    "endDate": "2026-05-25",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829449",
+    "name": "CCT 2026 Contenders Europe Series 5",
+    "nameShortened": "CCT 2026 Contenders EU S5",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-17",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829457",
+    "name": "Parken Challenger Championship #6",
+    "nameShortened": "PCC #6",
+    "startDate": "2026-05-09",
+    "endDate": "2026-05-11",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829458",
+    "name": "United21 Season 49",
+    "nameShortened": "United21 Season 49",
+    "startDate": "2026-05-10",
+    "endDate": "2026-05-27",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829401",
+    "name": "IEM Atlanta 2026",
+    "nameShortened": "IEM Atlanta 2026",
+    "startDate": "2026-05-11",
+    "endDate": "2026-05-17",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829489",
+    "name": "CCT 2026 South America Series 2",
+    "nameShortened": "CCT 2026 SA S2",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829490",
+    "name": "CCT 2026 Europe Series 2",
+    "nameShortened": "CCT 2026 EU S2",
+    "startDate": "2026-05-12",
+    "endDate": "2026-05-30",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829488",
+    "name": "Parken Challenger Championship #7",
+    "nameShortened": "PCC #7",
+    "startDate": "2026-05-15",
+    "endDate": "2026-05-17",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829512",
+    "name": "CCT 2026 Europe Series 3",
+    "nameShortened": "CCT 2026 EU Series 3",
+    "startDate": "2026-05-19",
+    "endDate": "2026-06-06",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829516",
+    "name": "Parken Challenger Championship #8",
+    "nameShortened": "PCC #8",
+    "startDate": "2026-05-22",
+    "endDate": "2026-05-24",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829511",
+    "name": "Thunderpick World Championship 2026 Europe Series 1",
+    "nameShortened": "TWC 2026 Europe Series 1",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-31",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829513",
+    "name": "CCT 2026 Challengers Europe Series 3",
+    "nameShortened": "CCT 2026 Challengers EU S3",
+    "startDate": "2026-05-23",
+    "endDate": "2026-05-31",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829546",
+    "name": "European Pro League Series 7",
+    "nameShortened": "European Pro League Series 7",
+    "startDate": "2026-05-23",
+    "endDate": "2026-06-22",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829550",
+    "name": "ESL Challenger League Season 51 - Asia Finals",
+    "nameShortened": "ESL CL S51 - Asia Finals",
+    "startDate": "2026-05-25",
+    "endDate": "2026-05-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829547",
+    "name": "ESL Challenger League Season 51 - Europe Finals",
+    "nameShortened": "ESL CL S51 - EU Finals",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829548",
+    "name": "ESL Challenger League Season 51 - North America Finals",
+    "nameShortened": "ESL CL S51 - NA Finals",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829549",
+    "name": "ESL Challenger League Season 51 - South America Finals",
+    "nameShortened": "ESL CL S51 - SA Finals",
+    "startDate": "2026-05-26",
+    "endDate": "2026-05-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829608",
+    "name": "United21 Season 50",
+    "nameShortened": "United21 Season 50",
+    "startDate": "2026-05-28",
+    "endDate": "2026-06-14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829571",
+    "name": "IEM Cologne 2026",
+    "nameShortened": "IEM Cologne 2026",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-21",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829614",
+    "name": "Gamers Club Serie A: May 2026",
+    "nameShortened": "Gamers Club Serie A: May 2026",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-05",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829514",
+    "name": "CCT 2026 Europe Series 4",
+    "nameShortened": "CCT 2026 Europe Series 4",
+    "startDate": "2026-06-03",
+    "endDate": "2026-06-21",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829687",
+    "name": "DFRAG Open Series #5",
+    "nameShortened": "DFRAG Open Series #5",
+    "startDate": "2026-06-08",
+    "endDate": "2026-06-18",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829697",
+    "name": "United21 Season 51",
+    "nameShortened": "United21 Season 51",
+    "startDate": "2026-06-15",
+    "endDate": "2026-07-02",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829517",
+    "name": "TWC 2026 South America Series 1",
+    "nameShortened": "TWC 2026 SA Series 1",
+    "startDate": "2026-06-24",
+    "endDate": "2026-06-28",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829698",
+    "name": "European Pro League Series 8",
+    "nameShortened": "European Pro League S8",
+    "startDate": "2026-06-24",
+    "endDate": "2026-07-24",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829515",
+    "name": "CCT 2026 South America Series 3",
+    "nameShortened": "CCT 2026 SA Series 3",
+    "startDate": "2026-06-27",
+    "endDate": "2026-07-09",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829518",
+    "name": "CCT 2026 Challengers Europe Series 4",
+    "nameShortened": "CCT 2026 Challengers EU S4",
+    "startDate": "2026-06-27",
+    "endDate": "2026-07-05",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829717",
+    "name": "Gamers Club Liga Série A: June 2026 (Playoffs)",
+    "nameShortened": "GCL Série A: June 2026",
+    "startDate": "2026-06-30",
+    "endDate": "2026-07-03",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829816",
+    "name": "United21 Season 52",
+    "nameShortened": "United21 Season 52",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-19",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829617",
+    "name": "CCT 2026 Contenders Europe Series 6",
+    "nameShortened": "CCT 2026 Contenders Eu 6",
+    "startDate": "2026-07-04",
+    "endDate": "2026-07-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829615",
+    "name": "Thunderpick World Championship 2026 South America Series 2",
+    "nameShortened": "Thunderpick Worlds 2026 SA 2",
+    "startDate": "2026-07-08",
+    "endDate": "2026-07-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829756",
+    "name": "BLAST Open Fall 2026: Europe Closed Qualifier",
+    "nameShortened": "BLAST Open Fall 2026: EU CQ",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829757",
+    "name": "BLAST Open Fall 2026: SA Closed Qualifier",
+    "nameShortened": "BLAST Open Fall 2026: SA CQ",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829765",
+    "name": "BLAST Open Fall 2026: NA Closed Qualifier",
+    "nameShortened": "BLAST Open Fall 2026: NA CQ",
+    "startDate": "2026-07-09",
+    "endDate": "2026-07-11",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829764",
+    "name": "BLAST Open Fall 2026: Asia Closed Qualifier",
+    "nameShortened": "BLAST Open Fall 2026: Asia CQ",
+    "startDate": "2026-07-10",
+    "endDate": "2026-07-12",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829793",
+    "name": "ESL Challenger League Season 52 - Cup #1 Europe",
+    "nameShortened": "ESL CL S 52 - Cup #1 Europe",
+    "startDate": "2026-07-12",
+    "endDate": "2026-07-14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829730",
+    "name": "ESEA Advanced Season 58 - Europe",
+    "nameShortened": "ESEA Advanced Season 58 - EU",
+    "startDate": "2026-07-13",
+    "endDate": "2026-09-20",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829731",
+    "name": "ESEA Advanced Season 58 - NA",
+    "nameShortened": "ESEA Advanced Season 58 - NA",
+    "startDate": "2026-07-13",
+    "endDate": "2026-09-20",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829845",
+    "name": "CCT 2026 South America Series 4",
+    "nameShortened": "CCT 2026 SA Se4",
+    "startDate": "2026-07-14",
+    "endDate": "2026-07-26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829853",
+    "name": "CCT 2026 Europe Series 5",
+    "nameShortened": "CCT 2026 Europe Series 5",
+    "startDate": "2026-07-15",
+    "endDate": "2026-08-02",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "830257",
+    "name": "Stake Ranked Episode 3",
+    "nameShortened": "Stake Ranked Episode 3",
+    "startDate": "2026-07-15",
+    "endDate": "2026-07-18",
+    "venueType": "LAN"
+  },
+  {
+    "id": "830193",
+    "name": "HyperX & Intel Nationals 2026",
+    "nameShortened": "HyperX & Intel Nationals 2026",
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-19",
+    "venueType": "LAN"
+  },
+  {
+    "id": "829817",
+    "name": "BLAST Bounty Summer 2026: Closed Qualifier",
+    "nameShortened": "BLAST Bounty Summer 2026: CQ",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829854",
+    "name": "CCT 2026 Europe Series 6",
+    "nameShortened": "CCT 2026 Europe Series 6",
+    "startDate": "2026-07-21",
+    "endDate": "2026-08-08",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "830262",
+    "name": "StarLadder StarSeries Fall 2026 - European Qualifier",
+    "nameShortened": "SLSS Fall26 - EU Qualifier",
+    "startDate": "2026-07-21",
+    "endDate": "2026-07-26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829616",
+    "name": "Thunderpick World Championship 2026 Europe Series 2",
+    "nameShortened": "Thunderpick Worlds 2026 Eu 2",
+    "startDate": "2026-07-25",
+    "endDate": "2026-08-02",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "829618",
+    "name": "CCT 2026 Contenders Europe Series 7",
+    "nameShortened": "CCT 2026 Contenders Eu 7",
+    "startDate": "2026-07-25",
+    "endDate": "2026-08-02",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "830213",
+    "name": "European Pro League Series 9",
+    "nameShortened": "EPL Series 9",
+    "startDate": "2026-07-28",
+    "endDate": "2026-08-26",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "830214",
+    "name": "United21 Series 1",
+    "nameShortened": "United21 Series 1",
+    "startDate": "2026-07-28",
+    "endDate": "2026-08-14",
+    "venueType": "ONLINE"
+  },
+  {
+    "id": "830192",
+    "name": "BLAST Bounty Summer 2026",
+    "nameShortened": "BLAST Bounty Summer 2026",
+    "startDate": "2026-07-30",
+    "endDate": "2026-08-02",
+    "venueType": "LAN"
+  },
+  {
+    "id": "830157",
+    "name": "Games of the Future: CS2",
+    "nameShortened": "Games of the Future: CS2",
+    "startDate": "2026-08-04",
+    "endDate": "2026-08-08",
+    "venueType": "LAN"
+  }
+]

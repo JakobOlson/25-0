@@ -1,5 +1,7 @@
-from fastapi import FastAPI, HTTPException
+from fastapi import FastAPI, HTTPException, Query
 from pydantic import BaseModel
+from grid_client import get_grid_series, get_grid_series_state
+from typing import Any
 
 from game.data import (
     get_team_year_options,
@@ -145,3 +147,12 @@ def select_game_player(selection: PlayerSelection):
         "selected_player": selected_player,
         "game": current_game,
     }
+
+@app.get("/grid/series")
+async def list_grid_series(limit: int = 50):
+    return await get_grid_series(limit=limit)
+
+
+@app.get("/grid/series/{series_id}/state")
+async def read_grid_series_state(series_id: str):
+    return await get_grid_series_state(series_id=series_id)
